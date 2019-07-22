@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: Katacodas
+  url: /katacodas/
+  excerpt: "Interactive learning modules"
+  image:
+
+- title: About
+  url: /about/
+  excerpt: "What is this site?"
+  image:
+
+
+- title: Get Help
+  url: /get-help/
+  excerpt: "How do I get help?"
+  image:

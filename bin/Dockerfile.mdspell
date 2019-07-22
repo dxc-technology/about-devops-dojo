@@ -1,0 +1,10 @@
+FROM node:argon
+
+ENV http_proxy=http://web-proxy.corp.hpecorp.net:8080
+ENV https_proxy=http://web-proxy.corp.hpecorp.net:8080
+
+# Install spellcheck
+RUN npm i markdown-spellcheck -g
+
+ENTRYPOINT ["mdspell"]
+CMD ["--help"]

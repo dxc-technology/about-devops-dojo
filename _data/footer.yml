@@ -1,0 +1,10 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: Katacodas
+  url: /katacodas/
+
+- title: About
+  url: /about/

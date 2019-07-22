@@ -1,0 +1,22 @@
+<footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		{% for link in site.data.footer %}
+      {% if link.url contains 'http' %}
+        {% assign domain = '' %}
+        {% else %}
+        {% assign domain = site.url %}
+      {% endif %}
+			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		{% endfor %}
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">DXC technology</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> and <a href="https://github.com/mmistakes/skinny-bones-jekyll">Skinny Bones</a> theme.<br/>
+	<i class="fab fa-github"></i> Help us make this site awesome:
+	<a href="{{site.github.repository_url}}/edit/gh-pages/{{page.path}}"><i class="fas fa-pencil-alt"></i> edit this page</a>,
+	<a href="{{site.github.repository_url}}/issues/new?labels=question"><i class="fas fa-question-circle"></i> ask a question</a> or
+	<a href="{{site.github.repository_url}}/issues/new?labels=bug"><i class="fas fa-bug"></i> report an issue</a></p>
+	<!-- Share on Yammer button -->
+	<!-- <script type="text/javascript" src="https://s0.assets-yammer.com/assets/platform_social_buttons.min.js"></script> 
+	<script type="text/javascript">yam.platform.yammerShare();</script>-->
+</footer>

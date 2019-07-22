@@ -1,0 +1,28 @@
+FROM ruby:2.3-alpine
+
+# NOTE: JEKYLL_VERSION must correspond to Jekyll version in Gemfile
+#       and align with GitHub's enterprise Jekyll version per
+#       https://pages.github.com/versions/.
+#       GitHub 2.7 -> Jekyll 3.2.1
+ENV JEKYLL_VERSION=3.2.1
+
+ENV http_proxy=http://web-proxy.corp.hpecorp.net:8080
+ENV https_proxy=http://web-proxy.corp.hpecorp.net:8080
+
+RUN apk --no-cache add sudo ruby-dev gcc make g++
+
+RUN addgroup -g 1000 jekyll \
+        && adduser -H -D -u 1000 -G jekyll jekyll \
+        && echo "jekyll ALL=NOPASSWD:ALL" >> /etc/sudoers
+
+WORKDIR /srv/jekyll
+COPY Gemfile Gemfile
+RUN chown -R jekyll:jekyll .
+
+USER jekyll
+
+RUN gem install jekyll:${JEKYLL_VERSION} bundler --no-rdoc --no-ri
+RUN bundle install
+
+VOLUME /srv/jekyll
+EXPOSE 4000

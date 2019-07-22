@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/katacoda.css" />
+    <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127212965-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-127212965-1');
+    </script>
+  </head>
+  <body>
+    <div class="header">
+        <ul>
+            <div id="left">
+                <li><img style="vertical-align:top" src="{{ site.url }}/images/dxc-logo.png"/>&nbsp;&nbsp;DXC DevOps Dojo - {{ page.title }}</li>
+            </div>
+            <div id="center">
+                <li>
+                    <a href="#top">🔝&nbsp;Lab</a>&nbsp;&nbsp;{% if page.walkthrough %}<a href="#walkthrough-screencast">📺&nbsp;Walk&nbsp;me&nbsp;through</a>&nbsp;&nbsp;{% endif %}{% if page.more %}<a href="#more">⭐&nbsp;More</a>{% endif %}</li></div>
+            <div id="right">
+                <li>
+                    <a href="https://github.dxc.com/devops/yellow-belt/issues" target="_blank" style="target-new: tab;">🙋‍ Get help</a> 
+                    <a href="https://github.dxc.com/pages/GDO-CTO/Katacoda/get-help/" target="_blank" style="target-new: tab;">❓ FAQ</a>
+                </li>
+            </div>
+        </ul>
+    </div>
+    <div id="full-size">
+    <a name="top">
+    {{ content }}
+    </div>
+    <style>
+    .header {
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%
+    }
+    .header ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+        text-align:center;
+    }
+
+    #left {
+        float:left;
+        text-align:left;
+    }
+
+    #center {
+        display: inline-block;
+        margin:0 auto;
+    }
+
+    #right {
+        float:right;
+        text-align:right;
+    }
+
+    .header li {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 18px 20px;
+        text-decoration: none;
+    }
+    .header li a {
+        color: white;
+        text-decoration: none;
+    }
+    .header li a:hover{
+        color: yellow;
+    }
+    .active {
+        background-color: #4CAF50;
+    }
+    </style>
+  </body>
+</html>
+
