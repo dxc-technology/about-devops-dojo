@@ -14,7 +14,7 @@ more: true
 
 <script src="//katacoda.com/embed.js"></script>
 <div id="katacoda-scenario-1"
-    data-katacoda-id="devops-yellow-belt/courses/yellow-belt-devops-dojo/version-control"
+    data-katacoda-id="berthonneau/courses/online-devops-dojo/version-control"
     data-katacoda-ctatext="Continue Online DevOps Dojo"
     data-katacoda-ctaurl="https://www.katacoda.com/berthonneau/courses/online-devops-dojo/version-control"
     data-katacoda-color="004d7f"

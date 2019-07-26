@@ -1,9 +1,7 @@
 # Katacoda
-GitHub pages to embed Katacoda scenarios (so that they're behind GlobalPass SSO)
+GitHub pages to embed Katacoda scenarios
 
-[https://github.dxc.com/pages/GDO-CTO/Katacoda/](https://github.dxc.com/pages/GDO-CTO/Katacoda/)
-
-![Screenshot](/images/site.jpg)
+[https://github.dxc.com/pages/pberthonneau/about-devops-dojo/](https://github.dxc.com/pages/pberthonneau/about-devops-dojo/)
 
 # Setting up a dev environment for contribution
 
@@ -27,21 +25,21 @@ sudo docker run -it -p 4000:4000 --name DXCjekyll ruby /bin/bash
 ```shell
 ssh-keygen -t rsa -f ~/.ssh/id_rsa -N '' && cat ~/.ssh/id_rsa.pub
 ```
-- Copy the public key and paste into [DXC GitHub > Settings > SSH Keys](https://github.dxc.com/settings/keys) > New SSH Key  
+- Copy the public key and paste into [GitHub > Settings > SSH Keys](https://github.com/settings/keys) > New SSH Key  
 
 # Contributing
 
-- The Katakoda content is in the separate Git repo [Katacoda-Scenarios](https://github.dxc.com/GDO-CTO/Katacoda-Scenarios)
+- The Katakoda content is in the separate Git repository [Online DevOps Dojo](https://github.com/pberthonneau/online-devops-dojo).
 
 - Clone the repository and checkout gh-pages branch  
 ```shell
-git clone git@github.dxc.com:GDO-CTO/Katacoda.git -b gh-pages
+git clone git@github.dxc.com:pberthonneau/about-devops-dojo.git
 ```
 - Change directory into the repo  
 ```shell
 cd Katacoda
 ```
-- Install Jekyll and its dependancies
+- Install Jekyll and its dependencies
 ```shell
 bundle install
 ```
@@ -57,6 +55,4 @@ sudo docker exec -it DXCjekyll /bin/bash
 
 We love Pull Requests for fixing or adding content. Thanks!
 =======
-https://github.dxc.com/pages/GDO-CTO/Katacoda/
-
-Active branch is [gh-pages](https://github.dxc.com/GDO-CTO/Katacoda/tree/gh-pages)
+https://github.dxc.com/pages/pberthonneau/about-devops-dojo/

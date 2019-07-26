@@ -12,7 +12,7 @@ order: 105
 
 <script src="//katacoda.com/embed.js"></script>
 <div id="katacoda-scenario-1"
-    data-katacoda-id="devops-yellow-belt/courses/yellow-belt-devops-dojo/leading-change"
+    data-katacoda-id="berthonneau/courses/online-devops-dojo/leading-change"
     data-katacoda-ctatext="Continue Online DevOps Dojo"
     data-katacoda-ctaurl="https://www.katacoda.com/berthonneau/courses/online-devops-dojo/leading-change"
     data-katacoda-color="004d7f"
