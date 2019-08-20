@@ -12,9 +12,9 @@ order: 140
 
 <script src="//katacoda.com/embed.js"></script>
 <div id="katacoda-scenario-1"
-    data-katacoda-id="berthonneau/courses/online-devops-dojo/shift-security-left"
+    data-katacoda-id="online-devops-dojo/courses/online-devops-dojo/shift-security-left"
     data-katacoda-ctatext="Continue Online DevOps Dojo"
-    data-katacoda-ctaurl="https://www.katacoda.com/berthonneau/courses/online-devops-dojo/shift-security-left"
+    data-katacoda-ctaurl="https://www.katacoda.com/online-devops-dojo/courses/online-devops-dojo/shift-security-left"
     data-katacoda-color="004d7f"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
 <br>

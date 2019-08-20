@@ -36,7 +36,7 @@
             background-color: #000000;
         }
     </style>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics --
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127212965-1"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -44,7 +44,7 @@
       gtag('js', new Date());
 
       gtag('config', 'UA-127212965-1');
-    </script>
+    </script -->
 </head>
 
   <body>
@@ -56,8 +56,8 @@
     {% if page.image.feature %}
     <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
       <div class="wrap page-lead-content">
-        <h1>Katacodas<br/> Interactive Learnings</h1>
-        <a href="{{ site.url }}/katacodas/" class="btn-inverse">Learn now</a>
+        <h2>DevOps interactive trainings<br/> with Katacoda</h2>
+        <a href="{{ site.url }}/katacodas/tag/online-devops-dojo" class="btn-inverse">Learn now</a>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
     {% endif %}
@@ -82,7 +82,7 @@
       {% include footer.html %}
     </div>
 
-    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="{{ site.url }}/js/vendor/jquery-3.4.1.slim.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
 
   </body>
