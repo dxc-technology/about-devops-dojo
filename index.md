@@ -32,4 +32,4 @@ Whether you are interested for yourself, the community or your company, you are 
 DXC Technology has embraced the DevOps transformation for some time internally and for our customers.
 We are using multiple homegrown Katacoda scenarii to train our workforces at large scale. Our agenda was inspired by the topics covered by the book [Accelerate](https://itrevolution.com/book/accelerate/) from Nicole Forsgren, Jez Humble and Gene Kim.
 
-If you are interested to learn more about our DevOps Dojo belts and stripes, please [contact us](./).
+If you are interested to learn more about our DevOps Dojo belts and stripes, please [contact us](mailto:%22Online%20DevOps%20Dojo%22%3c9517cf01.CSCPortal.onmicrosoft.com@amer.teams.ms%3e).
