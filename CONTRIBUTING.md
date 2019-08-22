@@ -24,11 +24,11 @@ ssh-keygen -t rsa -f ~/.ssh/id_rsa -N '' && cat ~/.ssh/id_rsa.pub
 
 # Contributing
 
-- The Katakoda content is in the separate Git repository [Online DevOps Dojo](https://github.com/pberthonneau/online-devops-dojo).
+- The Katakoda content is in the separate Git repository [Online DevOps Dojo](https://github.com/dxc-technology/online-devops-dojo).
 
 - Clone the repository 
 ```shell
-git clone git@github.dxc.com:pberthonneau/about-devops-dojo.git
+git clone git@github.com:dxc-technology/about-devops-dojo.git
 ```
 - Change directory into the repo  
 ```shell
