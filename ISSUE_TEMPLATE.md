@@ -3,6 +3,6 @@
 -->
 - [ ] I am stuck with a Katacoda lab
 - [ ] This is an enhancement request
-- [ ] Yes, I checked the FAQ: {{ site.url }}/get-help/
+- [ ] Yes, I checked the FAQ: https://dxc-technology.github.io/about-devops-dojo/get-help/
 
 ---
