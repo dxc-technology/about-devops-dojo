@@ -5,7 +5,7 @@ description: Interactive learnings for tech topics
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://github.com/pages/dxc-technology/about-devops-dojo
+url: https://dxc-technology.github.io/about-devops-dojo
 
 # Jekyll configuration
 
