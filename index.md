@@ -25,7 +25,7 @@ Technically these modules are hosted on [GitHub](https://github.com/dxc-technolo
 
 # Want to contribute?
 
-Whether you are interested for yourself, the community or your company, you are welcome to fork the [Online DevOps Dojo](https://github.com/dxc-technology/about-devops-dojo) and add / enhance new training scenario
+Whether you are interested for yourself, the community or your company, you are welcome to fork the [Online DevOps Dojo](https://github.com/dxc-technology/about-devops-dojo) and add / enhance new training scenario.
 
 # Contact DXC Technology for more?
 
