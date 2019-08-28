@@ -10,6 +10,8 @@ assignees: ''
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
+Yes, I checked the FAQ: https://dxc-technology.github.io/about-devops-dojo/get-help/
+
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
