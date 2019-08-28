@@ -10,6 +10,8 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+Yes, I checked the FAQ: https://dxc-technology.github.io/about-devops-dojo/get-help/
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
