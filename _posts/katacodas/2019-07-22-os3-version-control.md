@@ -21,10 +21,6 @@ more: true
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
 <br>
 
-# Walkthrough screencast
-
-<iframe width="100%" height="90%" src="https://web.microsoftstream.com/embed/video/c1f99816-a154-41d0-b83c-efc9dab41067?autoplay=false&showinfo=false" frameborder="0" allowfullscreen ></iframe>
-
 # More
 
 - [GitHub guides](https://guides.github.com/)
