@@ -25,11 +25,11 @@ Technically these modules are hosted on [GitHub](https://github.com/dxc-technolo
 
 ## Want to contribute?
 
-Whether you are interested for yourself, the community or your company, you are welcome to fork the [Online DevOps Dojo](https://github.com/dxc-technology/about-devops-dojo) and add / enhance new training scenario.
+Whether you are interested for yourself, the community or your company, you are welcome to fork the [Online DevOps Dojo](https://github.com/dxc-technology/online-devops-dojo) and add new training scenarios or enhance existing ones.
 
 ## Contact DXC Technology for more?
 
 DXC Technology has embraced the DevOps transformation for some time internally and for our customers.
-We are using multiple homegrown Katacoda scenarii to train our workforces at large scale. Our agenda was inspired by the topics covered by the book [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) from Nicole Forsgren, Jez Humble and Gene Kim.
+We are using multiple homegrown Katacoda scenarios to train our workforces at large scale. Our agenda was inspired by the topics covered by the book [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) from Nicole Forsgren, Jez Humble and Gene Kim.
 
 If you are interested to learn more about our DevOps Dojo belts and stripes, please [contact us](mailto:%22Online%20DevOps%20Dojo%22%3c9517cf01.CSCPortal.onmicrosoft.com@amer.teams.ms%3e).

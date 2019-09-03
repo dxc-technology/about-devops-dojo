@@ -18,5 +18,5 @@ A collection of DevOps interactive learning modules.
 
 ## Contact
 
-Feel free to [ask a question]({{ site.github.repository_url }}/issues/new) with a GitHub issue.
+Feel free to [ask a question]({{ site.github.repository_url }}/issues/new/choose) with a GitHub issue.
 

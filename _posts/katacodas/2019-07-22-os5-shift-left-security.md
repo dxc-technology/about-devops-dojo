@@ -8,13 +8,16 @@ image:
   teaser: 400x250.shift.left.on.security.jpg
 share: true
 order: 140
+katacoda_account: online-devops-dojo
+katacoda_course: online-devops-dojo
+katacoda_scenario: shift-security-left
 ---
 
 <script src="//katacoda.com/embed.js"></script>
 <div id="katacoda-scenario-1"
-    data-katacoda-id="online-devops-dojo/courses/online-devops-dojo/shift-security-left"
+    data-katacoda-id="{{ katacoda_account }}/courses/{{ katacoda_course }}/{{ katacoda_scenario }}"
     data-katacoda-ctatext="Continue Online DevOps Dojo"
-    data-katacoda-ctaurl="https://www.katacoda.com/online-devops-dojo/courses/online-devops-dojo/shift-security-left"
+    data-katacoda-ctaurl="https://www.katacoda.com/{{ page.katacoda_account }}/courses/{{ katacoda_course }}/{{ katacoda_scenario }}"
     data-katacoda-color="004d7f"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
 <br>
