@@ -1,16 +1,14 @@
 ---
-name: Bug report from contributor
-about: Create a report to help us improve
+name: Assistance request from student
+about: I have an issue with a module and I need assistance
 title: ''
-labels: ':beetle: bug'
+labels: ":couple: student issue"
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-Yes, I checked the FAQ: https://dxc-technology.github.io/about-devops-dojo/get-help/
+**Describe the issue**
+A clear and concise description of what the issue or question is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
