@@ -34,9 +34,7 @@ A. It's great to explore! But if you want to reset the `pet-clinic` repository t
 * Delete the pet-clinic repository: go to https://github.com/your_shortname/pet-clinic/settings, scroll at the very bottom under "Danger Zone", and select "Delete this repository".
 * Go through the [Welcome module]({{ site.url }}/katacoda/os1-welcome/) to setup the new pet-clinic repository.
 
-## Data Privacy
-
-#### Usage of GitHub.com Personal Access Token
+#### <a name="PAT"></a>Usage of GitHub.com Personal Access Token
 
 Some training scenarios are requesting the trainee's GitHub.com Personal Access Token.
 
@@ -45,13 +43,7 @@ The Personal Access Token is only used during sessions in Katacoda.com, which is
 
 All pull requests to add or modify the trainings must comply with this policy.
 
-The code is located in script shells in assets folders under https://github.com/dxc-technology/online-devops-dojo/tree/master/online-devops-dojo.
-
-#### Privacy policy
-
-Online DevOps Dojo content is fully hosted on GitHub.com and trainings are executed on Katacoda.com environment. Please make sure that you agree with their respective privacy policies before running the trainings.
-- https://help.github.com/en/articles/github-privacy-statement
-- https://www.katacoda.com/privacy
+The source code is located in script shells in `assets` sub-folders under [https://github.com/dxc-technology/online-devops-dojo/tree/master/online-devops-dojo](https://github.com/dxc-technology/online-devops-dojo/tree/master/online-devops-dojo).
 
 ## Contact the DevOps Dojo team
 
