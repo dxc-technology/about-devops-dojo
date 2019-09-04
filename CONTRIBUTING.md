@@ -1,6 +1,6 @@
 # Setting up a dev environment for contribution
 
-These pages make use of the [Jekyll](https://jekyllrb.com/) static website generator, specifically version 3.8.6, which aligns to the GitHub Pages implementation in GitHub Enterprise 2.7.0. The Gemfile in this repo can be used with the `bundle` Ruby Gem to resolve dependencies for Jekyll, but first you need to have a suitable Ruby environment in place.
+These pages make use of the [Jekyll](https://jekyllrb.com/) static website generator, specifically version 3.8.6, which aligns to the GitHub Pages implementation in GitHub Enterprise 2.7.0. The Gemfile in this repository can be used with the `bundle` Ruby Gem to resolve dependencies for Jekyll, but first you need to have a suitable Ruby environment in place.
 
 ## Windows
 

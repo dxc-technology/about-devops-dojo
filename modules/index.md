@@ -8,8 +8,8 @@ layout: default
 			<h1>All</h1>
 		</div>
     <!-- Tag buttons -->
-    <a href="{{ site.url }}/katacodas" class="btn">All</a>
-    <a href="{{ site.url }}/katacodas/tag/online-devops-dojo" class="btn">Online DevOps Dojo</a>
+    <a href="{{ site.url }}/modules" class="btn">All</a>
+    <a href="{{ site.url }}/modules/tag/online-devops-dojo" class="btn">Online DevOps Dojo</a>
     <div class="tiles">
       <!-- User 'order' attribute to sort posts -->
       <!-- All posts with an order -->

@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: Bug report from contributor
 about: Create a report to help us improve
 title: ''
-labels: 'bug'
+labels: ':beetle: bug'
 assignees: ''
 
 ---
