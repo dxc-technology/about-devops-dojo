@@ -15,7 +15,7 @@ Technically these modules are hosted on [GitHub](https://github.com/dxc-technolo
 
 <div class="tiles">
   <div class="tile">
-    <h2 class="post-title"><a href="{{ site.url }}/katacodas/tag/online-devops-dojo"><i class="fas fa-bullhorn fa-2x" aria-hidden="true"></i> <i class="fas fa-user-ninja fa-2x" style="color:black;background:white" aria-hidden="true"></i> Online DevOps Dojo</a></h2>
+    <h2 class="post-title"><a href="{{ site.url }}/modules/tag/online-devops-dojo"><i class="fas fa-bullhorn fa-2x" aria-hidden="true"></i> <i class="fas fa-user-ninja fa-2x" style="color:black;background:white" aria-hidden="true"></i> Online DevOps Dojo</a></h2>
     <p class="post-excerpt">Open Source collection of DevOps Dojo labs: 
     leading change, version control, continuous integration, shifting security left.</p>
   </div><!-- /.tile -->
