@@ -22,26 +22,28 @@ The Online DevOps Dojo modules are set in the **Pet Clinic** multi-verse.
 
 The modules place learners in real-world-like scenarios, scenarios where they work with a virtual cast of characters sharing the hopes and dreams of the Pet Clinic team as they learn about DevOps.
 
-Our troupe of actors includes
+The troupe of actors includes:
 
-- **P**aulo the **P**roduct Owner. A passionate and outcome-driven product owner with twenty years experience in all aspects of product delivery. He is particularly fond of using the word INCONCEIVABLE!, in response to which the team remind him that he keeps using that word and that it [doesn't mean what he thinks it means](https://www.youtube.com/watch?v=D58LpHBnvsI).
+![](images/paulo.png)
 
-![](images/Paulo.png)
+**P**aulo the **P**roduct Owner. A passionate and outcome-driven product owner with twenty years experience in all aspects of product delivery. He is particularly fond of using the word INCONCEIVABLE!, in response to which the team remind him that he keeps using that word and that it [doesn't mean what he thinks it means](https://www.youtube.com/watch?v=D58LpHBnvsI).
 
-- **B**renda from the **B**usiness who is keen to take the Pet Clinic in to new growth areas sees DevOps being key to that. She is extremely proud of her two golden retrievers Bonnie and Clyde
+![](images/brenda.png)
 
-![](images/Brenda.png)
+**B**renda from the **B**usiness who is keen to take the Pet Clinic in to new growth areas sees DevOps being key to that. She is extremely proud of her two golden retrievers Bonnie and Clyde
 
-- **H**al the white hat **H**acker, engaged by the company to find and expose vulnerabilities in the company's applications. Hal, tired of people asking him to open the pod bay doors, has been trying to get people to call him by the code name Neo instead. But most people still call him Hal. Hal has no pets due to a wide range of allergies.
+![](images/hal.png)
 
-![](images/Hal.png)
+**H**al the white hat **H**acker, engaged by the company to find and expose vulnerabilities in the company's applications. Hal, tired of people asking him to open the pod bay doors, has been trying to get people to call him by the code name Neo instead. But most people still call him Hal. Hal has no pets due to a wide range of allergies.
+
+![](images/tina.png)
 
 **T**ina is a **T**ester. Tina is aware that the role of and skills required by a tester are changing. 
 Tina is keen to expand her strong testing skills, to become more technically adept, and learn more about coding so she can start working on test automation. Like Paulo she volunteers at the animal rescue center and helps run the Pet Clinic community engagement project that supports that shelter.
 
-![](images/Tina.png)
+# Experience the Trainings
 
-# Experience the Trainings - Use the Dojo Luke
+Use the Dojo, Luke!
 
 <div class="tiles">
   <div class="tile">
