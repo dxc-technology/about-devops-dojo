@@ -8,22 +8,21 @@ image:
   teaser: 400x250.version.control.jpg
 share: true
 order: 110
-walkthrough: true
+walkthrough: false
 more: true
+katacoda_account: online-devops-dojo
+katacoda_course: online-devops-dojo
+katacoda_scenario: version-control
 ---
 
 <script src="//katacoda.com/embed.js"></script>
 <div id="katacoda-scenario-1"
-    data-katacoda-id="online-devops-dojo/courses/online-devops-dojo/version-control"
+    data-katacoda-id="{{ page.katacoda_account }}/courses/{{ page.katacoda_course }}/{{ page.katacoda_scenario }}"
     data-katacoda-ctatext="Continue Online DevOps Dojo"
-    data-katacoda-ctaurl="https://www.katacoda.com/online-devops-dojo/courses/online-devops-dojo/version-control"
+    data-katacoda-ctaurl="https://www.katacoda.com/{{ page.katacoda_account }}/courses/{{ page.katacoda_course }}/{{ page.katacoda_scenario }}"
     data-katacoda-color="004d7f"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
 <br>
-
-# Walkthrough screencast
-
-<iframe width="100%" height="90%" src="https://web.microsoftstream.com/embed/video/c1f99816-a154-41d0-b83c-efc9dab41067?autoplay=false&showinfo=false" frameborder="0" allowfullscreen ></iframe>
 
 # More
 

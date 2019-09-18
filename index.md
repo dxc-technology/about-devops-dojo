@@ -5,7 +5,7 @@ image:
   feature: home-1600x800.jpg
 ---
 
-# What is Online DevOps Dojo?
+## What is Online DevOps Dojo?
 
 The Online DevOps Dojo is a novel set of hands on training modules which cover both cultural and technical aspects of DevOps. 
 
@@ -53,11 +53,13 @@ Tina is keen to expand her strong testing skills, to become more technically ade
 
 <br/><br/><br/><br/><br/><br/>
 
-# Want to contribute?
+## Want to contribute?
 
 Whether you are interested for yourself, the community or your company, you are welcome to fork the [Online DevOps Dojo](https://github.com/dxc-technology/about-devops-dojo) to add new training scenarios or to enhance the existing training scenarios.
 
-# Contact DXC Technology for more?
+You can also fork this repository, the [About Devops Dojo](https://github.com/dxc-technology/about-devops-dojo) repository for use as a home/landing page for your training scenarios.
+
+## Contact DXC Technology for more?
 
 [DXC Technology](https://www.dxc.technology/) has embraced the need for DevOps' transformation both internally and for our customers. DXC has used multiple homegrown Katacoda scenarii to transform our workforce at scale. We now want through the **Online DevOps Dojo** want to give something back and thus contribute to the community from whom we have learnt so much.
 
