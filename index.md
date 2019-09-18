@@ -85,4 +85,4 @@ The full Curriculum consists of four belts:
 
 - Black: Hands-on workshop in which cross-functional teams work to implement DevOps capabilities and practices.
 
-If you are interested to learn more about DXC Technologies DevOps Dojo belts and stripes, please [contact us](mailto:%22Online%20DevOps%20Dojo%22%3c9517cf01.CSCPortal.onmicrosoft.com@amer.teams.ms%3e).
+If you are interested to learn more about DXC Technology's DevOps Dojo belts and stripes, please [contact us](mailto:%22Online%20DevOps%20Dojo%22%3c9517cf01.CSCPortal.onmicrosoft.com@amer.teams.ms%3e).
