@@ -5,24 +5,24 @@ image:
   feature: home-1600x800.jpg
 ---
 
-## What is Online DevOps Dojo?
+## What is the Online DevOps Dojo?
 
-The Online DevOps Dojo is a novel set of hands on training modules which cover both cultural and technical aspects of DevOps. 
+The <a href="{{ site.url }}/katacodas/tag/online-devops-dojo">Online DevOps Dojo</a> is a novel set of hands on training modules which cover both cultural and technical aspects of DevOps. 
 
 The modules are hosted on [GitHub](https://github.com/dxc-technology/online-devops-dojo) and executed from the [Katakoda](https://www.katacoda.com/) platform. They can be run from your browser without any download or configuration.
 
 Informed by research on how people learn, the DevOps Dojo curriculum incorporates storytelling
 and emphasizes learning by doing to help improve learner engagement thus achieve desired learning outcomes.
 
-As humans, we love stories we have been sharing them since time immemorial. The **Online DevOps Dojo** takes an innovative, role-based story telling approach to enable hands-on training at scale. 
+As humans, we love stories we have been sharing them since time immemorial. The <a href="{{ site.url }}/katacodas/tag/online-devops-dojo">Online DevOps Dojo</a> takes an innovative, role-based story telling approach to enable hands-on training at scale. 
 
-The Online DevOps Dojo modules are set in the **Pet Clinic** multi-verse.
+The <a href="{{ site.url }}/katacodas/tag/online-devops-dojo">Online DevOps Dojo</a> modules are set in the **Pet Clinic** multi-verse.
 
 ![](images/onceuponatime.jpg)
 
-The modules place learners in real-world-like scenarios, scenarios where they work with a virtual cast of characters sharing the hopes and dreams of the Pet Clinic team as they learn about DevOps.
+The modules place learners in real-world-like scenarios, scenarios where they work with a virtual cast of characters sharing the hopes and dreams of the **Pet Clinic** team as they learn about DevOps.
 
-The troupe of actors includes:
+The troupe of characters in team **Pet Clinic** includes:
 
 ![](images/paulo.png)
 
@@ -30,7 +30,7 @@ The troupe of actors includes:
 
 ![](images/brenda.png)
 
-**B**renda from the **B**usiness who is keen to take the Pet Clinic in to new growth areas sees DevOps being key to that. She is extremely proud of her two golden retrievers Bonnie and Clyde
+**B**renda from the **B**usiness who is keen to take the Pet Clinic in to new growth areas sees DevOps being key to that. She is extremely proud of her two golden retrievers Bonnie and Clyde.
 
 ![](images/hal.png)
 
@@ -38,9 +38,8 @@ The troupe of actors includes:
 
 ![](images/tina.png)
 
-**T**ina is a **T**ester. Tina is aware that the role of and skills required by a tester are changing. 
+**T**ina is a **T**ester. Tina is aware that the role of and skills required by a tester are changing.
 Tina is keen to expand her strong testing skills, to become more technically adept, and learn more about coding so she can start working on test automation. Like Paulo she volunteers at the animal rescue center and helps run the Pet Clinic community engagement project that supports that shelter.
-
 
 # Experience the Trainings - Use the Dojo, Luke!
 
@@ -56,13 +55,13 @@ Tina is keen to expand her strong testing skills, to become more technically ade
 
 ## Want to contribute?
 
-Whether you are interested for yourself, the community or your company, you are welcome to fork the [Online DevOps Dojo](https://github.com/dxc-technology/about-devops-dojo) to add new training scenarios or to enhance the existing training scenarios.
+Whether you are interested for yourself, the community or your company, you are welcome to fork the [Online DevOps Dojo](https://github.com/dxc-technology/about-devops-dojo) repository to add new training scenarios or to enhance the existing training scenarios.
 
-You can also fork this repository, the [About Devops Dojo](https://github.com/dxc-technology/about-devops-dojo) repository for use as a home/landing page for your training scenarios.
+You are also welcome to fork this repository, the [About Devops Dojo](https://github.com/dxc-technology/about-devops-dojo) repository for use as a home/landing page for your training scenarios.
 
-## Contact DXC Technology for more?
+## Contact DXC Technology for more information on the DevOps Dojos?
 
-[DXC Technology](https://www.dxc.technology/) has embraced the need for DevOps' transformation both internally and for our customers. DXC has used multiple homegrown Katacoda scenarii to transform our workforce at scale. We now want through the **Online DevOps Dojo** want to give something back and thus contribute to the community from whom we have learnt so much.
+[DXC Technology](https://www.dxc.technology/) has embraced the need for DevOps' transformation both internally and for our customers. DXC has used multiple homegrown Katacoda scenarii to transform our workforce at scale. We now want through the <a href="{{ site.url }}/katacodas/tag/online-devops-dojo">Online DevOps Dojo</a> want to give something back and thus contribute to the community from whom we have learnt so much.
 
 ## Background
 
@@ -74,7 +73,7 @@ To that end DXC developed the DevOps Dojo program, an immersive approach designe
 
 Our approach and curriculum was inspired by the topics covered by the book [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) from Nicole Forsgren, Jez Humble and Gene Kim.
 
-The modules in **Online DevOps Dojo** are a subset of the modules from our market leading DevOps Dojo Curriculum.
+The modules in <a href="{{ site.url }}/katacodas/tag/online-devops-dojo">Online DevOps Dojo</a>are a subset of the modules from our market leading DevOps Dojo Curriculum.
 
 The full Curriculum consists of four belts:
 
