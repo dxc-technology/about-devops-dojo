@@ -7,16 +7,16 @@ image:
 
 ## What is the Online DevOps Dojo?
 
-The <a href="{{ site.url }}/katacodas/tag/online-devops-dojo">Online DevOps Dojo</a> is a novel set of hands on training modules which cover both cultural and technical aspects of DevOps. 
+The <a href="{{ site.url }}/modules">Online DevOps Dojo</a> is a novel set of hands on training modules which cover both cultural and technical aspects of DevOps. 
 
 The modules are hosted on [GitHub](https://github.com/dxc-technology/online-devops-dojo) and executed from the [Katakoda](https://www.katacoda.com/) platform. They can be run from your browser without any download or configuration.
 
 Informed by research on how people learn, the DevOps Dojo curriculum incorporates storytelling
 and emphasizes learning by doing to help improve learner engagement thus achieve desired learning outcomes.
 
-As humans, we love stories we have been sharing them since time immemorial. The <a href="{{ site.url }}/katacodas/tag/online-devops-dojo">Online DevOps Dojo</a> takes an innovative, role-based story telling approach to enable hands-on training at scale. 
+As humans, we love stories we have been sharing them since time immemorial. The <a href="{{ site.url }}/modules">Online DevOps Dojo</a> takes an innovative, role-based story telling approach to enable hands-on training at scale. 
 
-The <a href="{{ site.url }}/katacodas/tag/online-devops-dojo">Online DevOps Dojo</a> modules are set in the **Pet Clinic** multi-verse.
+The <a href="{{ site.url }}/modules">Online DevOps Dojo</a> modules are set in the **Pet Clinic** multi-verse.
 
 ![](images/onceuponatime.jpg)
 
@@ -45,7 +45,7 @@ Tina is keen to expand her strong testing skills, to become more technically ade
 
 <div class="tiles">
   <div class="tile">
-    <h2 class="post-title"><a href="{{ site.url }}/katacodas/tag/online-devops-dojo"><i class="fas fa-bullhorn fa-2x" aria-hidden="true"></i> <i class="fas fa-user-ninja fa-2x" style="color:black;background:white" aria-hidden="true"></i> Online DevOps Dojo</a></h2>
+    <h2 class="post-title"><a href="{{ site.url }}/modules"><i class="fas fa-bullhorn fa-2x" aria-hidden="true"></i> <i class="fas fa-user-ninja fa-2x" style="color:black;background:white" aria-hidden="true"></i> Online DevOps Dojo</a></h2>
     <p class="post-excerpt">Open Source collection of Interactive DevOps Dojo modules:
     Leading Change, Version Control, Continuous Integration and Shifting Security Left.</p>
   </div><!-- /.tile -->
@@ -61,7 +61,7 @@ You are also welcome to fork this repository, the [About Devops Dojo](https://gi
 
 ## Contact DXC Technology for more information on the DevOps Dojos?
 
-[DXC Technology](https://www.dxc.technology/) has embraced the need for DevOps' transformation both internally and for our customers. DXC has used multiple homegrown Katacoda scenarii to transform our workforce at scale. We now want through the <a href="{{ site.url }}/katacodas/tag/online-devops-dojo">Online DevOps Dojo</a> want to give something back and thus contribute to the community from whom we have learnt so much.
+[DXC Technology](https://www.dxc.technology/) has embraced the need for DevOps' transformation both internally and for our customers. DXC has used multiple homegrown Katacoda scenarii to transform our workforce at scale. We now want through the <a href="{{ site.url }}/modules">Online DevOps Dojo</a> want to give something back and thus contribute to the community from whom we have learnt so much.
 
 ## Background
 
@@ -73,7 +73,7 @@ To that end DXC developed the DevOps Dojo program, an immersive approach designe
 
 Our approach and curriculum was inspired by the topics covered by the book [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) from Nicole Forsgren, Jez Humble and Gene Kim.
 
-The modules in <a href="{{ site.url }}/katacodas/tag/online-devops-dojo">Online DevOps Dojo</a>are a subset of the modules from our market leading DevOps Dojo Curriculum.
+The modules in <a href="{{ site.url }}/modules">Online DevOps Dojo</a>are a subset of the modules from our market leading DevOps Dojo Curriculum.
 
 The full Curriculum consists of four belts:
 
