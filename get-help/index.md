@@ -1,12 +1,12 @@
 ---
-layout: article
+layout: home
 title: "Get Help"
 date: 2019-07-22
 modified: 2019-07-26
 excerpt:
 tags: []
 image:
-  feature:
+  feature: home-1600x800.jpg
   teaser:
   thumb:
 share: true

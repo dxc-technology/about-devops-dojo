@@ -1,12 +1,12 @@
 ---
-layout: article
+layout: home
 title: "Legal"
 date: 2019-09-04
 modified: 2019-09-04
 excerpt:
 tags: []
 image:
-  feature:
+  feature: home-1600x800.jpg
   teaser:
   thumb:
 share: true
