@@ -5,6 +5,11 @@
   excerpt: "Interactive learning modules"
   image:
 
+- title: DevOps @ DXC
+  url: /devopsatdxc/
+  excerpt: "DevOps @ DXC"
+  image:
+
 - title: Get Help
   url: /get-help/
   excerpt: "How do I get help?"
