@@ -13,7 +13,7 @@ share: true
 permalink: /devopsatdxc/
 ---
 
-[DXC Technology](https://www.dxc.technology/) has embraced the need for DevOps' transformation both internally and for our customers. DXC have created and used multiple homegrown Katacoda scenarii to transform our workforce at scale. We now want through the **Online DevOps Dojo** want to give something back and thus contribute to the community from whom we have learnt so much.
+[DXC Technology](https://www.dxc.technology/) has embraced the need for DevOps' transformation both internally and for our customers. DXC have created and used multiple homegrown Katacoda scenarii to transform our workforce at scale. We now want through the **Online DevOps Dojo** to give something back and thus contribute to the community from whom we have learnt so much.
 
 ## Background
 
