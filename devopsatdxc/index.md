@@ -6,7 +6,7 @@ modified: 2019-09-20
 excerpt:
 tags: []
 image:
-  feature:
+  feature: home-1600x800.jpg
   teaser:
   thumb:
 share: true
