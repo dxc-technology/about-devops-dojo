@@ -41,48 +41,13 @@ The full Curriculum consists of four belts:
 
 ## Yellow Belt Syllabus
 
+The story behind the creation of the **DevOps Dojo** curriculum was shared at the [DevOps Enterprise Summit](https://events.itrevolution.com/) the session can be viewed at 🎥 [https://www.youtube.com/watch?v=nhokY2UpBqI](https://www.youtube.com/watch?v=nhokY2UpBqI).
+
+Following on from the positive reception the DevOps Dojo program has received from the DevOps community including [Gene Kim](https://twitter.com/realgenekim/status/882813905680166912), we are now sharing an open source version of the DevOps Dojo entitled the **Online DevOps Dojo**.
+
 The **Online DevOps Dojo** is comprised of a selection of key modules from our **Yellow Belt DevOps Dojo**.
 
-The current list of modules in the **Yellow Belt DevOps Dojo** is
-
-- [Welcome](https://dxc-technology.github.io/about-devops-dojo/katacoda/os1-welcome/)
-
-- Binary Management
-
-- ChatOps
-
-- Continuous Testing
-
-- [Continuous Integration](https://dxc-technology.github.io/about-devops-dojo/katacoda/os4-continuous-integration/)
-
-- DevOps Kaizen
-
-- Infrastructure as Code
-
-- [Leading Change](https://dxc-technology.github.io/about-devops-dojo/katacoda/os2-leading-change/)
-
-- Monitoring
-
-- Post Incident Practices
-
-- [Version Control](https://dxc-technology.github.io/about-devops-dojo/katacoda/os3-version-control/)
-
-- Running a Value Stream Mapping Workshop
-
-- [Shift Security-Left](https://dxc-technology.github.io/about-devops-dojo/katacoda/os5-shift-left-security/)
-
-- Test Automation Strategies
-
-- Test Automation Strategy Implementation
-
-- Test Driven Development
-
-- Value Stream Mapping
-
-More modules are planned both for the **Online DevOps Dojo** and the **Yellow Belt DevOps Dojo**.
-
-Links are provided above to the modules currently available in the **Online DevOps Dojo**.
-
+The **Online DevOps Dojo** is being shared in the hope that people will embrace both the content and the approach. Furthermore we hope that the community will in time contribute ideas and modules to the **Online DevOps Dojo**.
 
 ## Contact DXC Technology for more information on our DevOps Dojos?
 
