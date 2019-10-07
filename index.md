@@ -9,7 +9,7 @@ image:
 
 The <a href="{{ site.url }}/modules">Online DevOps Dojo</a> is a novel set of hands on training modules which cover both cultural and technical aspects of DevOps. 
 
-The modules are hosted on [GitHub](https://github.com/dxc-technology/online-devops-dojo) and executed from the [Katakoda](https://www.katacoda.com/) platform. They can be run from your browser without any download or configuration.
+The modules are hosted on [GitHub](https://github.com/dxc-technology/online-devops-dojo) and executed from the [Katacoda](https://www.katacoda.com/) platform. They can be run from your browser without any download or configuration.
 
 Informed by research on how people learn, the DevOps Dojo curriculum incorporates storytelling
 and emphasizes learning by doing to help improve learner engagement thus achieve desired learning outcomes.
