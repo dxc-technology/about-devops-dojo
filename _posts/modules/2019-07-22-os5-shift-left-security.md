@@ -20,5 +20,7 @@ katacoda_next_scenario: os1-welcome
     data-katacoda-ctatext="Continue Online DevOps Dojo"
     data-katacoda-ctaurl="{{ site.url }}/katacoda/{{ page.katacoda_next_scenario }}"
     data-katacoda-color="004d7f"
+    data-katacoda-font="GTWalsheimProRegular"
+    data-katacoda-fontheader="GTWalsheimProBold"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
 <br>

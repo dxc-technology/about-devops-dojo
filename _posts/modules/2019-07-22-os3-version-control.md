@@ -22,6 +22,8 @@ katacoda_next_scenario: os4-continuous-integration
     data-katacoda-ctatext="Continue Online DevOps Dojo"
     data-katacoda-ctaurl="{{ site.url }}/katacoda/{{ page.katacoda_next_scenario }}"
     data-katacoda-color="004d7f"
+    data-katacoda-font="GTWalsheimProRegular"
+    data-katacoda-fontheader="GTWalsheimProBold"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
 <br>
 
@@ -32,7 +34,6 @@ katacoda_next_scenario: os4-continuous-integration
 - [Git Branching](http://learngitbranching.js.org/)
 - [Linus on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
 - [Learn Git on Codecademy](https://www.codecademy.com/learn/learn-git)
-- [Docker - how to contribute](https://docs.docker.com/opensource/workflow/make-a-contribution/)
 - [Git flow - nvie](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Git for Ages 4 and Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4#t=2m)
 - [Git the Simple Guide](http://rogerdudler.github.io/git-guide/)
