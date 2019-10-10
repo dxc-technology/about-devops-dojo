@@ -11,7 +11,7 @@ order: 105
 katacoda_account: online-devops-dojo
 katacoda_course: online-devops-dojo
 katacoda_scenario: leading-change
-katacoda_next_scenario: os3-version_control
+katacoda_next_scenario: os3-version-control
 ---
 
 <script src="//katacoda.com/embed.js"></script>
@@ -20,4 +20,6 @@ katacoda_next_scenario: os3-version_control
     data-katacoda-ctatext="Continue Online DevOps Dojo"
     data-katacoda-ctaurl="{{ site.url }}/katacoda/{{ page.katacoda_next_scenario }}"
     data-katacoda-color="004d7f"
+    data-katacoda-font="GTWalsheimProRegular"
+    data-katacoda-fontheader="GTWalsheimProBold"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
