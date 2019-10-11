@@ -20,7 +20,8 @@ katacoda_next_scenario: os5-shift-left-security
     data-katacoda-ctatext="Continue Online DevOps Dojo"
     data-katacoda-ctaurl="{{ site.url }}/katacoda/{{ page.katacoda_next_scenario }}"
     data-katacoda-color="004d7f"
-    data-katacoda-font="GTWalsheimProRegular"
-    data-katacoda-fontheader="GTWalsheimProBold"
+    data-katacoda-externalcss="https://dxc-technology.github.io/about-devops-dojo/css/DXC.css"
+    data-katacoda-font="GT-Walsheim-Pro-Regular"
+    data-katacoda-fontheader="GT-Walsheim-Pro-Bold"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
 <br>
