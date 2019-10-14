@@ -33,14 +33,13 @@ docker run \
     htmlproofer \
         --log-level debug \
         --url-swap "http.\/\/localhost.4000/:/" \
-        --url-ignore /localhost:4000/,/\/rndwiki.corp.hpecorp.net\//,/\/issues\//,/\/edit/,\/hide/ \
+        --url-ignore /localhost:4000/,/\/issues\//,/\/edit/,\/hide/ \
         /srv/jekyll/_site
 rc=$?
 [ $rc -eq 0 ] || doExit "$rc"
 echo "Running Spell Check tests... -------------------------------"
 docker run \
     --rm \
-    --env="http_proxy=http://web-proxy.corp.hpecorp.net:8080" \
     --volumes-from ${DATA_CONTAINER} \
     --workdir /srv/jekyll/ \
     mdspell \
