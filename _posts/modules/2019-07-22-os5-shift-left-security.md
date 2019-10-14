@@ -19,9 +19,9 @@ katacoda_next_scenario:
     data-katacoda-id="{{ page.katacoda_account }}/courses/{{ page.katacoda_course }}/{{ page.katacoda_scenario }}"
     data-katacoda-ctatext="Continue Online DevOps Dojo"
     data-katacoda-color="004d7f"
-    data-katacoda-externalcss="https://dxc-technology.github.io/about-devops-dojo/css/DXC.css"
+    data-katacoda-externalcss="{{ site.url }}/css/DXC.css"
     data-katacoda-font="GT-Walsheim-Pro-Regular"
-    data-katacoda-fontheader="GT-Walsheim-Pro-Bold"
+    data-katacoda-fontheader="GT-Walsheim-Pro-Regular"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
 <br>
     <!-- data-katacoda-ctaurl="{{ site.url }}/katacoda/{{ page.katacoda_next_scenario }}" -->

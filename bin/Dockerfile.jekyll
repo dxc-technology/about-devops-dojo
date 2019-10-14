@@ -6,9 +6,6 @@ FROM ruby:2.3-alpine
 #       GitHub 2.7 -> Jekyll 3.2.1
 ENV JEKYLL_VERSION=3.2.1
 
-ENV http_proxy=http://web-proxy.corp.hpecorp.net:8080
-ENV https_proxy=http://web-proxy.corp.hpecorp.net:8080
-
 RUN apk --no-cache add sudo ruby-dev gcc make g++
 
 RUN addgroup -g 1000 jekyll \

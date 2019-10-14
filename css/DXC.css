@@ -1,0 +1,20 @@
+---
+sitemap: false
+---
+/*
+   DXC fonts
+   ========================================================================== */
+
+   @font-face {
+      font-family: 'GT-Walsheim-Pro-Regular';
+      font-style: normal;
+      font-weight: normal;
+      src: local('GT-Walsheim-Pro-Regular'), url({{ site.url }}/fonts/GT-Walsheim-Pro-Regular.woff2) format('woff2'), url({{ site.url }}/fonts/GT-Walsheim-Pro-Regular.woff) format('woff');
+    }
+
+    @font-face {
+      font-family: 'GT-Walsheim-Pro-Bold';
+      font-style: normal;
+      font-weight: bold;
+      src: local('GT-Walsheim-Pro-Bold'), url({{ site.url }}/fonts/GT-Walsheim-Pro-Bold.woff2) format('woff2'), url({{ site.url }}/fonts/GT-Walsheim-Pro-Bold.woff) format('woff');
+    }

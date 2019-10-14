@@ -1,9 +1,6 @@
 # htmlproofer: a test tool for web sites
 FROM ruby:2.3-alpine
 
-ENV http_proxy=http://web-proxy.corp.hpecorp.net:8080
-ENV https_proxy=http://web-proxy.corp.hpecorp.net:8080
-
 # https://github.com/gliderlabs/docker-alpine/issues/53#issuecomment-125671731
 RUN apk add --update build-base libxml2-dev libxslt-dev libcurl
 RUN gem install nokogiri --
