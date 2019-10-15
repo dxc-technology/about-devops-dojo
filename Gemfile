@@ -1,7 +1,7 @@
 # Gemfile for Github pages
 source "https://rubygems.org"
 
-gem "jekyll", "3.8.6"   # Aligned with GitHub Enterprise 2.7 per https://pages.github.com/versions/
+gem "jekyll", "4.0.0"   # Aligned with GitHub Enterprise 2.7 per https://pages.github.com/versions/
 gem "octopress", "~> 3.0"
 
 group :jekyll_plugins do
