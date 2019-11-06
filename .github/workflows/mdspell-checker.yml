@@ -1,0 +1,16 @@
+name: Spell Check Markdown
+on:
+  push:
+    branches: [master]
+jobs:
+  build:
+    name: mdspell-check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+      - uses: ./.github/actions/mdspell-check
+#     - uses: ./.github/actions/publish-gh-pages
+        env:
+          PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
