@@ -1,7 +1,7 @@
 ---
 layout: home
 image:
-  feature: home-1600x800.jpg
+  feature: 
 ---
 
 <div id="main" role="main">			
