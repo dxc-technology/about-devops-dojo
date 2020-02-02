@@ -4,7 +4,7 @@ This repository contains the website for Online DevOps Dojo.
 
 Through the power of GitHub and Grayskull this website is hosted directly from this repository you can access the website at [https://dxc-technology.github.io/about-devops-dojo/](https://dxc-technology.github.io/about-devops-dojo/).
 
-The Online DevOps Dojois comprised a novel set of interactive training modules, hosted in [GitHub](https://github.com/dxc-technology/online-devops-dojo) and executed from [KataCoda](https://dxc-technology.github.io/about-devops-dojo/modules/). The modules cover both cultural and technical aspects of DevOps. The modules can be run from your browser without any download or configuration.
+The Online DevOps Dojo is comprised a novel set of interactive training modules, hosted in [GitHub](https://github.com/dxc-technology/online-devops-dojo) and executed from [KataCoda](https://dxc-technology.github.io/about-devops-dojo/modules/). The modules cover both cultural and technical aspects of DevOps. The modules can be run from your browser without the need for any download or configuration.
 
 To learn more about the Online DevOps Dojo and the Pet Clinic multi-verse in which it is set, including:
 
@@ -18,7 +18,7 @@ To learn more about the Online DevOps Dojo and the Pet Clinic multi-verse in whi
 
  - The principle of working in small batches and building quality with continuous integration supported by a high degree of automated testing.
 
- - Why Paulo the Product Owner has recently started to hum the theme tune to Mission Impossible in the presence of Selma the Security Officer.
+ - Why Paulo the Product Owner has recently started to hum the theme tune to Mission Impossible in the presence of Selma the Security Officer?
 
  - The pull request / feature branch version control model.
 
