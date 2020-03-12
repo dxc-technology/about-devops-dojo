@@ -14,9 +14,9 @@ share: true
 
 ## Online DevOps Dojo - FAQ
 
-#### I'm trying to right click copy a selection of text (like an SSH key) in FireFox but it isn't giving me the option to copy.
+#### I'm trying to right click copy a selection of text (like an SSH key) in Firefox but it isn't giving me the option to copy.
 
-A. FireFox has been completely re-engineered since we created the Katacoda scenarios and this is something that they've broken. Please try using another browser, we recommend using Chrome, while some users report success with IE.
+A. Firefox has been completely re-engineered since we created the Katacoda scenarios and this is something that they've broken. Please try using another browser, we recommend using Chrome, while some users report success with IE.
 
 #### I walked away from my training, and now it's timed out, why can't I just pick up where I left off?
 
