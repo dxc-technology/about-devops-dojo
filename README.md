@@ -1,6 +1,6 @@
 # Online DevOps Dojo - GitHub Pages Website
 
-This repository contains the website for Online DevOps Dojo. 
+This repository contains the website for Online DevOps Dojo.
 
 Through the power of GitHub and Grayskull this website is hosted directly from this repository you can access the website at [https://dxc-technology.github.io/about-devops-dojo/](https://dxc-technology.github.io/about-devops-dojo/).
 
