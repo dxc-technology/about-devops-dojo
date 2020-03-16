@@ -51,4 +51,4 @@ The troupe of characters in team **Pet Clinic** are:
 
 Whether you are interested for yourself, the community or your company, you are welcome to fork the [Online DevOps Dojo](https://github.com/dxc-technology/about-devops-dojo) repository to add new training scenarios or to enhance the existing training scenarios.
 
-You can also fork this repository, the [About Devops Dojo](https://github.com/dxc-technology/about-devops-dojo) repository for use as a home/landing page for your training scenarios.
+You can also fork this repository, the [About DevOps Dojo](https://github.com/dxc-technology/about-devops-dojo) repository for use as a home/landing page for your training scenarios.
