@@ -31,11 +31,11 @@ The modules in **Online DevOps Dojo** are a subset of the modules from our marke
 
 The full Curriculum consists of four belts:
 
-- White: Basic, self-paced interactive training in key DevOps practices (the “what”).
+- White: Basic, self-paced interactive training in key DevOps practices (the "what").
 
-- Green: Executive-level view of the principles, purpose and importance of DevOps (the “why”).
+- Green: Executive-level view of the principles, purpose and importance of DevOps (the "why").
 
-- Yellow: Hands-on interactive modules hosted in Katacoda covering cultural and technical aspects of DevOps* (the “how”).
+- Yellow: Hands-on interactive modules hosted in Katacoda covering cultural and technical aspects of DevOps* (the "how").
 
 - Black: Hands-on workshop in which cross-functional teams work with the help of dedicated DevOps coaches, to implement DevOps capabilities and practices in their applications.
 
