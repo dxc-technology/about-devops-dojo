@@ -35,20 +35,43 @@ The troupe of characters in team **Pet Clinic** are:
 <img src="images/tina.png" width="400"/> | **T**ina is a **T**ester. Tina is aware that the role of and skills required by a tester are changing.<br/>Tina is keen to expand her strong testing skills, to become more technically adept, and learn more about coding so she can start working on test automation. Like Paulo she volunteers at the animal rescue center and helps run the Pet Clinic community engagement project which supports the shelter.
 <img src="images/santhosh.png" width="400"/> | **S**anthosh is the **S**crum Master and facilitator of the agile development team. Santhosh works to protect the team from anything - typically requests originating from Brenda or Paulo that may distract them from the sprint deliverables - and to remove anything that impedes the flow of value delivery from the team to the business.
 
-# Experience the Trainings - Use the Dojo, Luke!
+## Experience the trainings - Use the Dojo, Luke!
 
-<div class="tiles">
-  <div class="tile">
-    <h2 class="post-title"><a href="{{ site.url }}/modules"><i class="fas fa-bullhorn fa-2x" aria-hidden="true"></i> <i class="fas fa-user-ninja fa-2x" style="color:black;background:white" aria-hidden="true"></i> Online DevOps Dojo</a></h2>
-    <p class="post-excerpt">Open Source collection of Interactive DevOps Dojo modules:
-    Leading Change, Version Control, Continuous Integration and Shifting Security Left.</p>
-  </div><!-- /.tile -->
-</div><!-- /.tiles -->
+Get started right away on your DevOps dojo journey with our collection of modules 👇
 
-<br/><br/><br/><br/><br/><br/>
+<div class="wrap">
+  <div class="tiles">
+    <!-- User 'order' attribute to sort posts -->
+    <!-- All posts with an order -->
+    {% assign postArray = "" | split:"|"  %}
+    {% for item in site.categories.katacoda %}
+      {% if item.order %}
+        {% if item.tags contains 'test' %}
+        {% else %}
+          {% assign postArray = postArray | push: item %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
 
-## Want to contribute?
+    {% assign postArray = postArray | sort: 'order'  %}
 
-Whether you are interested for yourself, the community or your company, you are welcome to fork the [Online DevOps Dojo](https://github.com/dxc-technology/about-devops-dojo) repository to add new training scenarios or to enhance the existing training scenarios.
+    <!-- Then all others -->
+    {% assign postArrayNoOrder = "" | split:"|"  %}
+    {% for item in site.categories.katacoda %}
+      {% unless item.order %}
+        {% assign postArrayNoOrder = postArrayNoOrder | push: item %}
+      {% endunless %}
+    {% endfor %}
 
-You can also fork this repository, the [About DevOps Dojo](https://github.com/dxc-technology/about-devops-dojo) repository for use as a home/landing page for your training scenarios.
+    {% for post in postArray %}
+      {% include post-grid.html %}
+    {% endfor %}
+    {% for post in postArrayNoOrder %}
+      {% include post-grid.html %}
+    {% endfor %}
+  </div><!-- /.tiles -->
+</div><!-- /.wrap -->
+
+## Open Source
+
+Online DevOps Dojo is fully Open Source. Head to the [about section](/about#contributing) for more details and guidance for contributions.
