@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Online DevOps Dojo
-katacoda_account: online-devops-dojo
+katacoda_account: online_devops_dojo
 katacoda_course: online-devops-dojo
 description: Interactive learnings for tech topics
 logo: # 120x120 px default image used for Twitter summary card
