@@ -2,7 +2,7 @@
 layout: home
 title: "Get Help"
 date: 2019-07-22
-modified: 2019-07-26
+modified: 2020-03-25
 excerpt:
 tags: []
 image:
@@ -41,9 +41,13 @@ Its purpose is to get access to his GitHub.com account in order to create a clon
 
 The Personal Access Token is only used during sessions in Katacoda.com, which is an ephemeral environment in the Cloud fully deleted after one hour of inactivity and only accessible by the trainee. The Personal Access Token is not stored anywhere else and not shared. This is also a reason why the Personal Access Token is requested at the beginning of every session for the scenarios which needs to access your pet-clinic repository.
 
-All pull requests to add or modify the trainings must comply with this policy.
+Privacy and security is obviously very import to this project. When reviewing contributions that modify the modules, we will ensure
+that the above is strictly respected.
 
-The source code that uses the PAT is located in shell scripts in `assets` sub-folders of the modules in the [https://github.com/dxc-technology/online-devops-dojo/tree/master/online-devops-dojo](https://github.com/dxc-technology/online-devops-dojo/tree/master/online-devops-dojo) repository.
+If you want to check it by yourself, the source code that uses the PAT is located in shell scripts in `assets` sub-folders of the
+modules in the
+[https://github.com/dxc-technology/online-devops-dojo/tree/master/online-devops-dojo](https://github.com/dxc-technology/online-devops-dojo/tree/master/online-devops-dojo)
+repository.
 
 ## Contact the DevOps Dojo team
 

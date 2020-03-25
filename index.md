@@ -7,14 +7,14 @@ image:
 
 ## What is the Online DevOps Dojo?
 
-The <a href="{{ site.url }}/modules">Online DevOps Dojo</a> is a novel set of hands on training modules which cover both cultural and technical aspects of DevOps. 
+The <a href="{{ site.url }}/modules">Online DevOps Dojo</a> is a novel set of hands on learning modules which cover both cultural and technical aspects of DevOps.
 
 The modules are hosted on [GitHub](https://github.com/dxc-technology/online-devops-dojo) and executed from the [Katacoda](https://www.katacoda.com/) platform. They can be run from your browser without any download or configuration.
 
 Informed by research on how people learn, the DevOps Dojo curriculum incorporates storytelling
 and emphasizes learning by doing to help improve learner engagement thus achieve desired learning outcomes.
 
-As humans, we love stories we have been sharing them since time immemorial. The <a href="{{ site.url }}/modules">Online DevOps Dojo</a> takes an innovative, role-based story telling approach to enable hands-on training at scale. 
+As humans, we love stories we have been sharing them since time immemorial. The <a href="{{ site.url }}/modules">Online DevOps Dojo</a> takes an innovative, role-based story telling approach to enable hands-on learning at scale.
 
 The <a href="{{ site.url }}/modules">Online DevOps Dojo</a> modules are set in the **Pet Clinic** multi-verse.
 
@@ -35,9 +35,9 @@ The troupe of characters in team **Pet Clinic** are:
 <img src="images/tina.png" width="400"/> | **T**ina is a **T**ester. Tina is aware that the role of and skills required by a tester are changing.<br/>Tina is keen to expand her strong testing skills, to become more technically adept, and learn more about coding so she can start working on test automation. Like Paulo she volunteers at the animal rescue center and helps run the Pet Clinic community engagement project which supports the shelter.
 <img src="images/santhosh.png" width="400"/> | **S**anthosh is the **S**crum Master and facilitator of the agile development team. Santhosh works to protect the team from anything - typically requests originating from Brenda or Paulo that may distract them from the sprint deliverables - and to remove anything that impedes the flow of value delivery from the team to the business.
 
-## Experience the trainings - Use the Dojo, Luke!
+## Experience DevOps learnings - Use the Dojo, Luke!
 
-Get started right away on your DevOps dojo journey with our collection of modules 👇
+Get started right away on your online DevOps dojo journey with our collection of modules 👇
 
 <div class="wrap">
   <div class="tiles">
