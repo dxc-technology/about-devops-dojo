@@ -74,4 +74,4 @@ Get started right away on your DevOps dojo journey with our collection of module
 
 ## Open Source
 
-Online DevOps Dojo is fully Open Source. Head to the [about section](/about#contributing) for more details and guidance for contributions.
+Online DevOps Dojo is fully Open Source. Head to the [about section]({{ site.url }}/about#contributing) for more details and guidance for contributions.
