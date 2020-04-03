@@ -60,4 +60,4 @@ The **Online DevOps Dojo** is being shared in the hope that people will embrace 
 
 ## Contact DXC Technology for more information on our DevOps Dojos?
 
-If you are interested to learn more about DXC Technology's DevOps Dojo belts and stripes, please [contact us](mailto:%22Online%20DevOps%20Dojo%22%3c4fdbfe90.CSCPortal.onmicrosoft.com@amer.teams.ms%3e).
+If you are interested to learn more about DXC Technology's DevOps Dojo belts and stripes, please [contact us](mailto:%22Online%20DevOps%20Dojo%22%3c8fc73ada.CSCPortal.onmicrosoft.com@amer.teams.ms%3e).
