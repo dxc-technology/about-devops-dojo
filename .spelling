@@ -3,9 +3,9 @@
 # global dictionary is at the start, file overrides afterwards
 # one word per line, to define a file override use ' - filename'
 # where filename is relative to this configuration file
-# ideally put words in alphabetically to avoid dupication
+# ideally put words in alphabetically to avoid duplication
 # proper case enforces proper case; lowercase allows both lower and proper case
-# use of correct vendor/software product name and capitlization convention helps enforce it
+# use of correct vendor/software product name and capitalization convention helps enforce it
 _check
 _mark
 Codecademy
