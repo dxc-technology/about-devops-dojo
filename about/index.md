@@ -33,7 +33,7 @@ as a home/landing page for your learning scenarios.
 
 ## Contact
 
-Feel free to [ask a question]({{ site.github.repository_url }}/issues/new), [report a problem]({{ site.github.repository_url }}/issues/new?assignees=&labels=%3Abeetle%3A+bug&template=bug_report.md&title=) or [suggest an enhancement]({{ site.github.repository_url }}/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=) with a GitHub issue.
+Feel free to [ask a question]({{ site.github.repository_url }}/issues/new?labels=❓+question&template=question.md), [report a problem]({{ site.github.repository_url }}/issues/new?assignees=&labels=%3Abeetle%3A+bug&template=bug_report.md&title=) or [suggest an enhancement]({{ site.github.repository_url }}/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=) with a GitHub issue.
 
 ## Privacy policy
 
@@ -48,4 +48,5 @@ relative to the usage of GitHub.com Personal Access Token]({{ site.url }}/get-he
 ## Terms of Use
 
 Online DevOps Dojo makes extensive use of Katacoda services, therefore you must adhere to its terms of use:
+
 - [Katacoda terms of use](https://www.katacoda.com/terms)
