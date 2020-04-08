@@ -1,0 +1,8 @@
+{
+    "default": true,
+    "line-length": false,
+    "no-inline-html": {
+      "allowed_elements": [ "script", "a", "blockquote", "iframe", "p" ]
+      },
+    "MD026": false
+  }
