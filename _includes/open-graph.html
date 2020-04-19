@@ -13,6 +13,7 @@
 	<!-- Open Graph -->
 	<meta property="og:locale" content="{{ site.locale }}">
 	<meta property="og:type" content="article">
+	{% if page.image.feature %}<meta property="og:image" content="{{ site.url }}/images/{{ page.image.feature }}">{% endif %}
 	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 	{% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html }}">{% endif %}
 	<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
