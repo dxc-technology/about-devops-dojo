@@ -1,8 +1,10 @@
 ---
 layout: home
 permalink: /
+title: "Online DevOps Dojo"
+excerpt: "A novel set of hands on learning modules which cover both cultural and technical aspects of DevOps."
 image:
-  feature: home-featured.png
+  feature: home-1600x800.jpg
 ---
 
 ## Online DevOps Dojo
