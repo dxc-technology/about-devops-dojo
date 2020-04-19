@@ -2,10 +2,10 @@
 layout: home
 permalink: /
 image:
-  feature: home-1600x800.jpg
+  feature: home-featured.png
 ---
 
-## What is the Online DevOps Dojo?
+## Online DevOps Dojo
 
 The <a href="{{ site.url }}/modules">Online DevOps Dojo</a> is a novel set of hands on learning modules which cover both cultural and technical aspects of DevOps.
 
