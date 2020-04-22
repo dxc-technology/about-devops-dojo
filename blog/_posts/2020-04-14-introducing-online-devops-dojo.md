@@ -3,8 +3,8 @@ title: "🐱‍👤 Introducing Online DevOps Dojo"
 layout: article
 categories: blog
 published: true
-description: "Online DevOps Dojo is an immersive learning experience with a fictious team and a set of hands on labs running in the browser."
-excerpt: "Introducing Online DevOps Dojo: an immersive, Open Source learning experience with a fictious team and a set of hands on labs running in the browser."
+description: "Online DevOps Dojo is an immersive learning experience with a fictitious team and a set of hands on labs running in the browser."
+excerpt: "Introducing Online DevOps Dojo: an immersive, Open Source learning experience with a fictitious team and a set of hands on labs running in the browser."
 tags: [devops, learning]
 ---
 
@@ -42,9 +42,9 @@ What we recently found out in the light of unprecedented events - such as a worl
 
 ## A Story
 
-Our challenge was to make the experience immersive. And to immerse youself into something, there is nothing better than a good story. So, we created one to support the learnings.
+Our challenge was to make the experience immersive. And to immerse yourself into something, there is nothing better than a good story. So, we created one to support the learnings.
 
-The modules tell the story of a fictious company with its employees as they go through their DevOps journey.
+The modules tell the story of a fictitious company with its employees as they go through their DevOps journey.
 
 ![Once Upon a Time](../../images/onceuponatime.jpg)
 
