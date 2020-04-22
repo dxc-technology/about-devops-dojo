@@ -24,6 +24,22 @@ plugins:
 
 
 # Octopress configuration
+defaults:
+  - scope:
+      path: "blog"
+      type: article
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
 
 # Default extensions
 post_ext: md
