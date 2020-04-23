@@ -59,7 +59,8 @@ Throughout the modules, you get to learn everyone (including more characters), s
 
 ## Learning modules
 
-The Online DevOps Dojo learning modules illustrate important DevOps patterns, as described in various blog posts, white papers and great books such as "[Accelerate](https://itrevolution.com/book/accelerate/)" by Nicole Forsgreen, Jez Humble and Gene Kim.
+The Online DevOps Dojo learning modules illustrate important DevOps patterns, as described in various blog posts, white papers and great books such as "[Accelerate](https://itrevolution.com/book/accelerate/)" by Nicole Forsgren, Jez Humble and Gene Kim.
+
 
 At launch, we release 5 modules:
 
