@@ -13,7 +13,8 @@ tags: [devops, learning]
 DevOps Dojos became popular since Target, an important US based retail company, started to introduce such a practice back in 2014 in support of their DevOps transformation.
 Multiple talks at conferences, white papers, and more recently books have been published about DevOps Dojos since then.
 
-Back in 2015, we created our own DevOps Dojos, which we have since then described during multiple talks - [1](https://www.youtube.com/watch?v=nhokY2UpBqI), [2](https://www.youtube.com/watch?v=75aZRf0_wSo), [3](https://www.youtube.com/watch?v=5ejcK1sTv6k) - in conferences and meetups, sharing our own experience.
+Back in 2015, we created our own DevOps Dojos, which we have since then described during multiple talks - [1](https://www.youtube.com/watch?v=nhokY2UpBqI){:target="_blank" rel="noopener"}, [2](https://www.youtube.com/watch?v=75aZRf0_wSo){:target="_blank" rel="noopener"}, [3](https://www.youtube.com/watch?v=5ejcK1sTv6k){:target="_blank" rel="noopener"} - in conferences and meetups, sharing our own experience.
+
 
 Since then, our own employees and customers alike have been taking advantage of the DevOps Dojo.
 
