@@ -15,5 +15,9 @@
   excerpt: "How do I get help?"
   image:
 
+- title: Blog
+  url: /blog/
+  excerpt: "News and articles"
+
 - title: About
   url: /about/
