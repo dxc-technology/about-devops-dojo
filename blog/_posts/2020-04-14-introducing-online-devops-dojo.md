@@ -50,12 +50,9 @@ The modules tell the story of a fictious company with its employees as they go t
 
 Let us introduce you to some of the team members:
 
-![Brenda](../../images/brenda.png) | **B**renda from the **B**usiness who is keen to take the Pet Clinic in to new growth areas sees DevOps being key to that. She is extremely proud of her two golden retrievers Bonnie and Clyde.
-
+<img src="../../images/brenda.png" width="400"/> | **B**renda from the **B**usiness who is keen to take the Pet Clinic in to new growth areas sees DevOps being key to that. She is extremely proud of her two golden retrievers Bonnie and Clyde.
 ![Chun](../../images/chun.png) | **C**hun is a **c**oach, change facilitator and technologist. Chun is an avid outdoors person and adrenaline junky, lover of fun, hater of being on-call. She encourages teams to automate as much as possible of the build, test, package and deploy process to ensure that the systems were created with a LessOps model in mind.
-
 ![Dan](../../images/dan.png) | **D**an, has worked as a senior developer for a number of years, most recently for First Order Incorporated a role he left due to the excessive travel requirements. Dan's workmates still fondly recall the fun and games which ensued when Shelob, his pet tarantula, got loose on *"Bring Your Pets to Work"* day.
-
 ![Adam](../../images/adam.png) | **A**dam is a System **A**dministrator transitioning to the role of Site Reliability Engineer (SRE). Adam is working closely with Selma to ensure the security of the company's software and applications. Adam suspects that Hal may have an inside man. Adam has a particular set of skills so he is working on a plan to look for the hacker, to find the hacker, to ... the hacker.
 
 Throughout the modules, you get to learn everyone (including more characters), sometimes interact with them, and understand how each one of them plays a role in the DevOps transformation of the "Pet Clinic" company.
@@ -74,7 +71,7 @@ At launch, we release 5 modules:
 
 Those modules are a mix of both cultural and technical topics.
 
-![Modules](../../images/modules.jpg)
+[![Modules](../../images/modules.jpg)](../../modules)
 
 And they all provide a very interactive experience where you can follow the step by step instructions, but also get out of the script to explore and learn more, without fear of breaking anything.
 
