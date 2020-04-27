@@ -18,7 +18,8 @@ Back in 2015, we created our own DevOps Dojos, which we have described in multip
 Since then, our own employees and customers alike have been taking advantage of the DevOps Dojo.
 
 Yet, we quickly came to a point where our physical DevOps Dojos were not enough to cover all the needs. Everyone was loving the
-experience, and to this day the on-site expereince still leads to great results. But we had a scale issue: we just could not accommodate everyone we needed to address.
+experience, and to this day the on-site experience still leads to great results. But we had a scale issue: we just could not accommodate everyone we needed to address.
+
 
 Let us introduce "**Online DevOps Dojos**".
 
