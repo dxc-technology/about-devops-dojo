@@ -27,7 +27,7 @@ cooperation and feedback. Traditional dojos involve face-to-face training, but f
 a set of immersive, web-based interactive training modules.
 
 Our approach and curriculum was inspired by the topics covered by the book [Accelerate: The Science of Lean Software and DevOps:
-Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/) from Nicole Forsgren, Jez
+Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/){:target="_blank" rel="noopener"} from Nicole Forsgren, Jez
 Humble and Gene Kim.
 
 The modules in **Online DevOps Dojo** are a subset of the modules from our DevOps Dojo Curriculum.
@@ -50,7 +50,7 @@ The story behind the creation of the **DXC's DevOps Dojo** curriculum was shared
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nhokY2UpBqI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Following on from the positive reception DXC's DevOps Dojo program has received from the DevOps community including [🐱‍👤Gene Kim](https://twitter.com/realgenekim/status/882813905680166912), we are now sharing an open source version of DXC's DevOps Dojo entitled the **Online DevOps Dojo**.
+Following on from the positive reception DXC's DevOps Dojo program has received from the DevOps community including [🐱‍👤Gene Kim](https://twitter.com/realgenekim/status/882813905680166912){:target="_blank" rel="noopener"}, we are now sharing an open source version of DXC's DevOps Dojo entitled the **Online DevOps Dojo**.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">Cool. DXC has open sourced their DevOps Dojo training materials. <a href="https://twitter.com/hashtag/DOES17?src=hash&amp;ref_src=twsrc%5Etfw">#DOES17</a> <a href="https://t.co/gSfbaPF9dl">pic.twitter.com/gSfbaPF9dl</a></p>&mdash; Gene Kim (@RealGeneKim) <a href="https://twitter.com/RealGeneKim/status/882813905680166912?ref_src=twsrc%5Etfw">July 6, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

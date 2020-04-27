@@ -28,11 +28,11 @@ katacoda_next_scenario: os4-continuous-integration
 
 # More
 
-- [GitHub guides](https://guides.github.com/)
-- [Git Book](https://git-scm.com/book/en/v2/)
-- [Git Branching](http://learngitbranching.js.org/)
-- [Linus on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
-- [Learn Git on Codecademy](https://www.codecademy.com/learn/learn-git)
-- [Git flow - nvie](http://nvie.com/posts/a-successful-git-branching-model/)
-- [Git for Ages 4 and Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4#t=2m)
-- [Git the Simple Guide](http://rogerdudler.github.io/git-guide/)
+- [GitHub guides](https://guides.github.com/){:target="_blank" rel="noopener"}
+- [Git Book](https://git-scm.com/book/en/v2/){:target="_blank" rel="noopener"}
+- [Git Branching](http://learngitbranching.js.org/){:target="_blank" rel="noopener"}
+- [Linus on Git](https://www.youtube.com/watch?v=4XpnKHJAok8){:target="_blank" rel="noopener"}
+- [Learn Git on Codecademy](https://www.codecademy.com/learn/learn-git){:target="_blank" rel="noopener"}
+- [Git flow - nvie](http://nvie.com/posts/a-successful-git-branching-model/){:target="_blank" rel="noopener"}
+- [Git for Ages 4 and Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4#t=2m){:target="_blank" rel="noopener"}
+- [Git the Simple Guide](http://rogerdudler.github.io/git-guide/){:target="_blank" rel="noopener"}
