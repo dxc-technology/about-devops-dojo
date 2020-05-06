@@ -40,7 +40,7 @@ The troupe of characters in team **Pet Clinic** are:
 <img src="images/tina.png" width="400"/> | **T**ina is a **T**ester. Tina is aware that the role of and skills required by a tester are changing.<br/>Tina is keen to expand her strong testing skills, to become more technically adept, and learn more about coding so she can start working on test automation. Like Paulo she volunteers at the animal rescue center and helps run the Pet Clinic community engagement project which supports the shelter.
 <img src="images/santhosh.png" width="400"/> | **S**anthosh is the **S**crum Master and facilitator of the agile development team. Santhosh works to protect the team from anything - typically requests originating from Brenda or Paulo that may distract them from the sprint deliverables - and to remove anything that impedes the flow of value delivery from the team to the business.
 
-## Experience DevOps learnings - Use the Dojo, Luke!
+## Experience DevOps - Use the Dojo, Luke!
 
 Get started right away on your online DevOps dojo journey with our collection of modules 👇
 

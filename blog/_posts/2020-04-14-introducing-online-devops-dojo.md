@@ -43,7 +43,7 @@ What we recently found in light of unprecedented events — such as a global pan
 
 ## A Story
 
-Our challenge was to make the experience immersive. And to immerse youself in something, there is nothing better than a good story. So, we created one to support the learnings.
+Our challenge was to make the experience immersive. And to immerse youself in something, there is nothing better than a good story. So, we created one to support the training.
 
 The modules tell the story of a fictitious company, "Pet Clinic," and its employees as they go through their DevOps journey.
 
