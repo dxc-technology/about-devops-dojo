@@ -27,6 +27,6 @@ To learn more about the Online DevOps Dojo and the Pet Clinic multi-verse in whi
 
 Access the website at [https://dxc-technology.github.io/about-devops-dojo/](https://dxc-technology.github.io/about-devops-dojo/).
 
-Experience DevOps Learnings - Use the Dojo, Luke.
+Experience DevOps Training - Use the Dojo, Luke.
 
 ![](images/onceuponatime.jpg)
