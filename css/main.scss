@@ -57,19 +57,20 @@ sitemap: false
 
 @import "layout";
 
-html {
-   font-size: 16px;
-   p {
-      font-size: 16px;
-   }
-
-   h1 {
-      font-size: 32px;
-   }
-   h2 {
-      font-size: 28px;
-   }
-   h3 {
-      font-size: 24px;
-   }
+html { font-size: 16px; }
+p {
+   font-size: 1rem;
+   margin-bottom: 1rem;
 }
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.5rem; }
+li { font-size: 1rem; }
+
+.site-title {
+   font-weight: 600;
+   height: 50px;
+}
+.sliding-menu-content h5 span { font-size: 2rem; }
+.sliding-menu-content .menu-item .title { font-size: 1.75rem; }

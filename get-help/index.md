@@ -20,7 +20,7 @@ A. Firefox has been completely re-engineered since we created the Katacoda scena
 
 #### I walked away from my training, and now it's timed out, why can't I just pick up where I left off?
 
-A. Katacoda need to protect their resources, and that's one of the things that helps them offer training at a reasonable cost. Idle sessions tie up resources on their back end, and to prevent resource starvation they time out sessions; so if this happens to you then you'll need to start over. Hopefully the previous practice will help get you back to where you left off pretty quickly. The [Kata](https://en.wikipedia.org/wiki/Kata) in Katacoda is about a pattern of moves that are repeated to build familiarity, so repetition is helpful to learning.
+A. Katacoda need to protect their resources, and that's one of the things that helps them offer training at a reasonable cost. Idle sessions tie up resources on their back end, and to prevent resource starvation they time out sessions; so if this happens to you then you'll need to start over. Hopefully the previous practice will help get you back to where you left off pretty quickly. The [Kata](https://en.wikipedia.org/wiki/Kata){:target="_blank" rel="noopener"} in Katacoda is about a pattern of moves that are repeated to build familiarity, so repetition is helpful to learning.
 
 #### I get an error that `pet-clinic` is not found.
 
@@ -30,7 +30,7 @@ A. In the Online DevOps Dojo, you need to go through the [Welcome module]({{ sit
 
 A. It's great to explore! But if you want to reset the `pet-clinic` repository to its original state, the easiest way is to:
 
-* Delete the pet-clinic repository: go to https://github.com/your_shortname/pet-clinic/settings, scroll at the very bottom under "Danger Zone", and select "Delete this repository".
+* Delete the pet-clinic repository: go to <https://github.com/><your_shortname>/pet-clinic/settings, scroll at the very bottom under "Danger Zone", and select "Delete this repository".
 * Go through the [Welcome module]({{ site.url }}/katacoda/os1-welcome/) to setup the new pet-clinic repository.
 
 #### <a name="PAT"></a>Usage of GitHub.com Personal Access Token

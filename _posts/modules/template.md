@@ -2,7 +2,8 @@
 layout: article
 title: "Template"
 categories: hide
-modified: 2019-09-07
+date: 2019-07-22
+modified: 2020-04-23
 excerpt: "A simple article"
 tags: [sometag]
 image:
@@ -14,7 +15,7 @@ share: true
 
 # Katacoda
 
-See [how to embed a Katacoda scenario](https://www.katacoda.com/embed/scenarios)
+See [how to embed a Katacoda scenario](https://www.katacoda.com/embed/scenarios){:target="_blank" rel="noopener"}
 
 # Further Reading
 
