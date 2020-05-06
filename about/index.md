@@ -37,7 +37,7 @@ Feel free to [ask a question]({{ site.github.repository_url }}/issues/new?labels
 
 ## Privacy policy
 
-Online DevOps Dojo content is fully hosted on GitHub.com and learning modules are executed on Katacoda.com environment. Please make sure that you agree with their respective privacy policies before running the learnings.
+Online DevOps Dojo content is fully hosted on GitHub.com and learning modules are executed on Katacoda.com environment. Please make sure that you agree with their respective privacy policies before running the training.
 
 - [GitHub privacy policy](https://help.github.com/en/articles/github-privacy-statement)
 - [Katacoda privacy policy](https://www.katacoda.com/privacy)
