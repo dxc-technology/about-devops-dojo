@@ -1,0 +1,28 @@
+---
+# Action Repo: https://github.com/actions/stale
+# Action README:
+
+name: Mark stale issues and pull requests
+
+# yamllint disable-line rule:truthy
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/stale@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          stale-issue-message: 'This issue has been marked as Stale because it has been open for 14 days with no activity. Remove the stale label or comment on the issue, otherwise it will be closed in 7 days.'
+          stale-pr-message: 'This PR has been marked as Stale because it has been open for 14 days with no activity. Remove the stale label or comment on the PR, otherwise it will be closed in 7 days.'
+          stale-issue-label: 'Stale Issue'
+          exempt-issue-labels: 'Awaiting Approval,Work in progress'
+          stale-pr-label: 'Stale PR'
+          exempt-pr-labels: 'Awaiting Approval,Work in progress'
+          days-before-stale: 14
+          days-before-close: 7

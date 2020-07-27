@@ -1,0 +1,15 @@
+---
+# configuration file for spellcheck action
+
+matrix:
+  - name: markdown
+    dictionary:
+      wordlists:
+        - wordlist.txt
+      output: wordlist.dic
+      encoding: utf-8
+    pipeline:
+      - pyspelling.filters.text
+    sources:
+      - '**/*.md'
+    default_encoding: utf-8
