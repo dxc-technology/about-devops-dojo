@@ -3,7 +3,7 @@ _mark
 e.g.
 i.e.
 br
-Abettle
+Abeetle
 accelerometer
 acker
 ada
@@ -14,6 +14,7 @@ amer
 Arial
 assignees
 asynch
+async
 autoplay
 aZRf
 blockquote
@@ -37,6 +38,7 @@ devops
 DevOps
 devopsatdxc
 devopsdojo
+dir
 dockerized
 dl
 dnt
@@ -48,6 +50,7 @@ Dojos
 dojos
 dxc
 DXC
+DXC's
 educationcorner
 ejcK
 EO
@@ -63,6 +66,7 @@ ffBJ
 fname
 fontheader
 frameborder
+fs
 gSfbaPF
 Gemfile
 generatesvg
@@ -77,6 +81,7 @@ http
 https
 href
 iframe
+img
 io
 itrevolution
 Javascript
@@ -113,7 +118,7 @@ NONINFRINGEMENT
 noopener
 ntl
 nvie
-nhokkY
+nhokY
 noopener
 oach
 Octopress
