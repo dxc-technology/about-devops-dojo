@@ -72,11 +72,6 @@ At launch, we released 5 modules:
 * Continuous Integration
 * Shift Security Left
 
-We have since added two more modules
-
-* Value Stream mapping
-* DevOps Kaizen
-
 Those modules are a mix of both cultural and technical topics.
 
 [![Modules](../../images/modules.jpg)](../../modules)
