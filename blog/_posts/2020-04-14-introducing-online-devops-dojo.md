@@ -72,6 +72,11 @@ At launch, we released 5 modules:
 * Continuous Integration
 * Shift Security Left
 
+We have since added two more modules
+
+* Value Stream mapping
+* DevOps Kaizen
+
 Those modules are a mix of both cultural and technical topics.
 
 [![Modules](../../images/modules.jpg)](../../modules)
@@ -88,7 +93,7 @@ We are making the Online DevOps Dojo available to benefit the entire development
 
 First, we would like to welcome everyone trying out the learning modules. We sincerely hope they will help in supporting your DevOps adoption.
 
-Second, we plan to release new modules, depending on the reception of the initial launch.
+Second, we plan to continue to release new modules, following the positive community reaction to the initial launch.
 
 Beyond the initial launch, we are eager to build a community around the Online DevOps Dojo — a community of module maintainers, translators, story tellers and even creators of new learning modules.
 

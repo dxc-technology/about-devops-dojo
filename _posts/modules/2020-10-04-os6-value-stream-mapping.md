@@ -1,16 +1,16 @@
 ---
 layout: katacoda-fs
-title: "Shift Left on Security"
+title: "Value Stream Mapping"
 categories: katacoda
-excerpt: "Security must be considered from the beginning and continuously assessed."
+excerpt: "Learn how Value Stream Mapping can be used to help you and your team optimize your processes for value delivery and speed."
 tags: [online-devops-dojo]
 image:
-  teaser: 400x250.shift.left.on.security.jpg
+  teaser: 400x250.value.stream.mapping.jpg
 share: true
 order: 140
 
-katacoda_scenario: shift-security-left
-katacoda_next_scenario: os6-value-stream-mapping
+katacoda_scenario: value-stream-mapping
+katacoda_next_scenario: os7-devops-kaizen
 ---
 
 <script src="//katacoda.com/embed.js"></script>
@@ -22,4 +22,3 @@ katacoda_next_scenario: os6-value-stream-mapping
     data-katacoda-fontheader="Arial"
     style="height: calc(100vh); width: (100% - 68px); padding-top: 55px;"></div>
 <br>
-    <!-- data-katacoda-ctaurl="{{ site.url }}/katacoda/{{ page.katacoda_next_scenario }}" -->

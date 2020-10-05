@@ -9,8 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Spelling updates and minor editorial changes to the documentation 
- 
+- Spelling updates and minor editorial changes to the documentation
+
+## [1.1.0] - 2020-10-05
+
+### Added
+
+- Value Stream Mapping and DevOps Kaizen modules.
+
 ## [1.0.0] - 2019-07-16
 
 ### Added
