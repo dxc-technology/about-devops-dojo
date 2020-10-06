@@ -6,8 +6,7 @@ Through the power of GitHub and Grayskull this website is hosted directly from t
 
 The Online DevOps Dojo is comprised of a novel set of interactive DevOps learning modules, hosted in
 [GitHub](https://github.com/dxc-technology/online-devops-dojo) and executed from
-[Katacoda](https://dxc-technology.github.io/about-devops-dojo/modules/). The modules cover both cultural and technical aspects of
-DevOps. The modules can be run from your browser without the need for any download or configuration.
+[Katacoda](https://dxc-technology.github.io/about-devops-dojo/modules/). The modules cover both cultural and technical aspects of DevOps. The modules can be run from your browser without the need for any download or configuration.
 
 To learn more about the Online DevOps Dojo and the Pet Clinic multi-verse in which it is set, including:
 
@@ -25,7 +24,7 @@ To learn more about the Online DevOps Dojo and the Pet Clinic multi-verse in whi
 
 * The pull request / feature branch version control model.
 
-* The team deciding in an incident room strewn with coke cans, pizza boxes and stale air t to investigate the use of value stream mapping to better understand their current and desired processes.
+* The team in an incident room strewn with coke cans, pizza boxes and stale air deciding to investigate the use of value stream mapping to better understand their processes.
 
 * How the team following a VSM workshop borrow from Japanese manufacturing to initiate a DevOps Kaizen cycle aka process of continuous improvement for their software development value stream.
 

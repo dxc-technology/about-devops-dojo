@@ -1,4 +1,4 @@
-Following the positive community reaction to the launch of the Online DevOps Dojo, we are pleased to announce we have added two more modules to the dojo
+Following the positive community reaction to the launch of the Online DevOps Dojo, we are pleased to announce we have added two more modules to the dojo:
 
 * Value Stream Mapping
 * DevOps Kaizen
@@ -9,11 +9,11 @@ These are in addition to the 5 modules which were included in the initial launch
 * Leading Change
 * Version Control
 * Continuous Integration
-* Shift Security Left
+* Shift Left on Security
 
 ## VSM and DevOps Kaizen Modules
 
-Value Stream Mapping is a technique we encourage teams to understand the current state and to document the desired state of their process aka their value stream.
+Value Stream Mapping is a technique teams use to analyze the current state and design the future state of their software development process.
 
 Kaizen is a technique used to address the deltas identified between current and desired state VSM's.
 
