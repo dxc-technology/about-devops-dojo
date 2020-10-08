@@ -7,7 +7,7 @@ tags: [online-devops-dojo]
 image:
   teaser: 400x250.devops.kaizen.jpg
 share: true
-order: 140
+order: 160
 
 katacoda_scenario: devops-kaizen
 katacoda_next_scenario:
