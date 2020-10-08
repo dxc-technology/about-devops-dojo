@@ -7,7 +7,7 @@ tags: [online-devops-dojo]
 image:
   teaser: 400x250.value.stream.mapping.jpg
 share: true
-order: 140
+order: 150
 
 katacoda_scenario: value-stream-mapping
 katacoda_next_scenario: os7-devops-kaizen
