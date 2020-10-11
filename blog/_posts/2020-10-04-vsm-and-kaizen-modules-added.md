@@ -1,3 +1,13 @@
+---
+title: "🐱‍👤 VSM and Kaizen Modules Added"
+layout: article
+categories: blog
+published: true
+description: "Online DevOps Dojo is an immersive learning experience with a fictitious team and a set of hands-on labs running in the browser."
+excerpt: "We are pleased to announce we have added Value Stream Mapping and DevOps Kaizen modules to the Online DevOps Dojo."
+tags: [devops, learning]
+---
+
 Following the positive community reaction to the launch of the Online DevOps Dojo, we are pleased to announce we have added two more modules to the dojo:
 
 * Value Stream Mapping
