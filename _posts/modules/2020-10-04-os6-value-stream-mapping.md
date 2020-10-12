@@ -17,6 +17,7 @@ katacoda_next_scenario: os7-devops-kaizen
 <div id="katacoda-scenario-1"
     data-katacoda-id="{{ site.katacoda_account }}/courses/{{ site.katacoda_course }}/{{ page.katacoda_scenario }}"
     data-katacoda-ctatext="Continue Online DevOps Dojo"
+    data-katacoda-ctaurl="{{ site.url }}/katacoda/{{ page.katacoda_next_scenario }}"
     data-katacoda-color="004d7f"
     data-katacoda-font="Arial"
     data-katacoda-fontheader="Arial"
