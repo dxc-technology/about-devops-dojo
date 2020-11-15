@@ -76,6 +76,7 @@ gitname
 GitHub
 github
 Grayskull
+kaizen
 html
 http
 https

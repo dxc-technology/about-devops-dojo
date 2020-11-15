@@ -25,7 +25,7 @@ These are in addition to the 5 modules which were included in the initial launch
 
 Value Stream Mapping is a technique teams use to analyze the current state and design the future state of their software development process.
 
-Kaizen is a technique used to address the deltas identified between current and desired state VSM's.
+Kaizen is a technique used to address the deltas identified between current and desired state value stream maps.
 
 ## What's next?
 
