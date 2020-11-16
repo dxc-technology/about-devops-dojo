@@ -8,7 +8,6 @@ jobs:
     name: markdown spell check
     runs-on: ubuntu-latest
     steps:
-      - name: Check out code.
-        uses: actions/checkout@v2
-      - name: Spelling check via PySpelling
-        uses: sbates130272/spellcheck-github-actions@v0.7.0
+    - uses: actions/checkout@v2
+    - uses: rojopolis/spellcheck-github-actions@0.6.0
+      name: Spellcheck
