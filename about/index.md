@@ -26,6 +26,21 @@ they will be useful. Our primary goal is not to offer trainings as a service,
 but contribute a set of DevOps learning experiences for the community to
 assemble and create more content in support of DevOps adoption.
 
+## Media & Announcements
+
+The Online DevOps Dojo has been featured in various media, including,
+
+* [GitHub Universe 2020: Open source online DevOps Dojo](https://www.youtube.com/watch?v=zNShWuKdWMQ) (2020 Dec 11)
+  * Presentation by [Chris Swan](https://github.com/cpswan), CTO Modern Apps & Cloud Native, DXC Fellow, DXC Technology
+
+* [All Day DevOps 2020: Open Source Online DevOps Dojo](https://content.sonatype.com/2020addo/addo2020-ct-swan-halpin) (2020 Nov 12)
+  * Presentation by [Chris Swan](https://github.com/cpswan) & [Tom Halpin](https://github.com/tom-halpin), DXC DevOps Technical Lead
+
+* [DXC TechTalk: Online DevOps Dojo, Part 1](https://www.dxc.technology/innovation/events/148828-dxc_techtalk_online_devops_dojo) (2020 May 19)
+  * Presentation by [Chris Swan](https://github.com/cpswan) & [Olivier Jacques](https://github.com/ojacques), _DXC Distinguished Technologist_
+
+* [GitHub Customer Stories: DXC Technology & GitHub](https://github.com/customer-stories/dxc)
+
 ## Contributing
 
 Whether you are interested for yourself, the community or your company, you are
@@ -43,7 +58,6 @@ repository for use as a home/landing page for your learning scenarios.
 Feel free to [ask a question]({{ site.github.repository_url }}/issues/new?labels=❓+question&template=question.md), [report a problem]({{ site.github.repository_url }}/issues/new?assignees=&labels=%3Abeetle%3A+bug&template=bug_report.md&title=) or [suggest an enhancement]({{ site.github.repository_url }}/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=) with a GitHub issue.
 
 ## Privacy policy
-
 
 Online DevOps Dojo content is fully hosted on GitHub.com and learning modules are executed on Katacoda.com environment. Please make sure that you agree with their respective privacy policies before running the training.
 
