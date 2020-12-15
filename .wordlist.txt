@@ -185,6 +185,7 @@ utf
 validateJSONSchema
 vh
 VSM
+VSM's
 walkthrough
 webpack
 wikipedia
