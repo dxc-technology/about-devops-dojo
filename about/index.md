@@ -41,6 +41,7 @@ The Online DevOps Dojo has been featured in various media, including,
 
 * [GitHub Customer Stories: DXC Technology & GitHub](https://github.com/customer-stories/dxc)
 
+* [InfoQ interview: DevOps Dojo Provides Online, Interactive DevOps Training](https://www.infoq.com/news/2020/06/devops-dojo/)
 ## Contributing
 
 Whether you are interested for yourself, the community or your company, you are
