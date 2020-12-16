@@ -10,9 +10,8 @@ tags: [devops, learning]
 
 In response to the reaction from the community to the **Online DevOps Dojo** we are happy to be able to announce the open sourcing of a module on Post Incident Practices.
 
-This is in addition to the 7 existing modules :
+This is in addition to the Welcome and Setup module, and the 6 existing modules on DevOps culture and practices:
 
-* Welcome and Setup
 * Leading Change
 * Version Control
 * Continuous Integration
