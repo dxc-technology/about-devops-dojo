@@ -13,9 +13,8 @@ Following the positive community reaction to the launch of the Online DevOps Doj
 * Value Stream Mapping
 * DevOps Kaizen
 
-These are in addition to the 5 modules which were included in the initial launch:
+This is in addition to the Welcome and Setup module, and the 4 modules on DevOps culture and practices included in the initial launch:
 
-* Welcome and Setup
 * Leading Change
 * Version Control
 * Continuous Integration

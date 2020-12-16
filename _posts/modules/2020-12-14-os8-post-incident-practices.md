@@ -1,16 +1,16 @@
 ---
 layout: katacoda-fs
-title: "DevOps Kaizen"
+title: "Post Incident Practices"
 categories: katacoda
-excerpt: "DevOps Kaizen events can be used to help you and your team continuously improve your development processes."
+excerpt: "Learn how to establish a Safety Culture, conduct blameless post-mortems and create a 'code of conduct' to help your team manage incidents in all phases of their life cycle."
 tags: [online-devops-dojo]
 image:
-  teaser: 400x250.devops.kaizen.jpg
+  teaser: 400x250.post.incident.practices.jpg
 share: true
 order: 160
 
-katacoda_scenario: devops-kaizen
-katacoda_next_scenario: os8-post-incident-practices
+katacoda_scenario: post-incident-practices
+katacoda_next_scenario:
 ---
 
 <script src="//katacoda.com/embed.js"></script>
