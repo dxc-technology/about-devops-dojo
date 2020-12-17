@@ -7,6 +7,7 @@ Abeetle
 accelerometer
 acker
 ada
+addo
 dministrator
 al
 allowfullscreen
@@ -31,6 +32,7 @@ crum
 CSCPortal
 ctatext
 ctaurl
+CTO
 Dbased
 deliverables
 dev
@@ -83,6 +85,8 @@ https
 href
 iframe
 img
+infoq
+InfoQ
 io
 itrevolution
 Javascript
@@ -115,6 +119,7 @@ mdspell
 MERCHANTABILITY
 minified
 minify
+mortems
 npm
 NONINFRINGEMENT
 noopener
@@ -168,12 +173,15 @@ SME's
 src
 SRE
 sTv
+sonatype
 subfolders
 sudo
 sublicense
 SVG
 svg
 sVUb
+techtalk
+TechTalk
 thoughtbot
 trainings
 twsrc
@@ -196,7 +204,7 @@ XpnKHJAok
 yaml
 youtube
 yml
-
+zNShWuKdWMQ
 
 # Names
 
@@ -208,15 +216,18 @@ brenda
 Brenda
 Chun
 chun
+cpswan
 dan
 Dan
 hal
+Halpin
 harlie
 hun
 elma
 Forsgren
 ina
 Jez
+ojacques
 paulo
 Paulo
 renda
