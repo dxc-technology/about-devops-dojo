@@ -19,6 +19,8 @@ async
 autoplay
 aZRf
 blockquote
+brighttalk
+BrightTalk
 btn
 calc
 cd
@@ -89,6 +91,7 @@ infoq
 InfoQ
 io
 itrevolution
+ITSM
 Javascript
 jenkins
 Jenkinsfile
@@ -182,6 +185,7 @@ svg
 sVUb
 techtalk
 TechTalk
+th
 thoughtbot
 trainings
 twsrc
@@ -191,6 +195,7 @@ url
 us
 usiness
 utf
+utm
 validateJSONSchema
 vh
 VSM
@@ -212,6 +217,7 @@ adam
 Adam
 anthosh
 aulo
+Berthonneau
 brenda
 Brenda
 Chun
@@ -220,6 +226,7 @@ cpswan
 dan
 Dan
 hal
+halpin
 Halpin
 harlie
 hun
@@ -230,6 +237,7 @@ Jez
 ojacques
 paulo
 Paulo
+pberthonneau
 renda
 santhosh
 Santhosh
