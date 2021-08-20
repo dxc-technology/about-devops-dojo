@@ -20,7 +20,7 @@ autoplay
 aZRf
 blockquote
 brighttalk
-BrightTalk
+BrightTALK
 btn
 calc
 cd
