@@ -7,10 +7,10 @@ tags: [online-devops-dojo]
 image:
   teaser: 400x250.post.incident.practices.jpg
 share: true
-order: 160
+order: 170
 
 katacoda_scenario: post-incident-practices
-katacoda_next_scenario:
+katacoda_next_scenario: os1-welcome
 ---
 
 <script src="//katacoda.com/embed.js"></script>
