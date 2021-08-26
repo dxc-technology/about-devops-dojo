@@ -30,7 +30,7 @@ assemble and create more content in support of DevOps adoption.
 
 The Online DevOps Dojo has been featured in various media, including,
 
-* [BrightTalk: Powering Digital Transformation with Advanced ITSM Seminar, Track: Inside ITSM and DevOps, Open Source Online DevOps Dojo](https://www.brighttalk.com/webcast/534/470998?utm_campaign=communication_reminder_starting_now_registrants&utm_medium=email&utm_source=brighttalk-transact&utm_content=title) (2021 Feb 18th)
+* [BrightTALK: Powering Digital Transformation with Advanced ITSM Seminar, Track: Inside ITSM and DevOps, Open Source Online DevOps Dojo](https://www.brighttalk.com/webcast/534/470998?utm_campaign=communication_reminder_starting_now_registrants&utm_medium=email&utm_source=brighttalk-transact&utm_content=title) (2021 Feb 18th)
   * Presentation by [Chris Swan](https://github.com/cpswan), CTO Modern Apps & Cloud Native, DXC Fellow, DXC Technology, [Philippe Berthonneau](https://github.com/pberthonneau), DXC DevOps Engineer & Coach & [Tom Halpin](https://github.com/tom-halpin), DXC DevOps Technical Lead
 
 * [GitHub Universe 2020: Open source online DevOps Dojo](https://www.youtube.com/watch?v=zNShWuKdWMQ) (2020 Dec 11)
